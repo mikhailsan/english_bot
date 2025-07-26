@@ -1,0 +1,923 @@
+
+I — я | I am here. | Я здесь.
+he — он | He is my friend. | Он мой друг.
+she — она | She is happy. | Она счастлива.
+it — это | It is new. | Это новое.
+we — мы | We are ready. | Мы готовы.
+they — они | They are late. | Они опоздали.
+me — мне | Give me a pen. | Дай мне ручку.
+you — ты | You are kind. | Ты добр.
+him — ему | Tell him tomorrow. | Скажи ему завтра.
+us — нас | Join us now. | Присоединяйся к нам сейчас.
+them — их | I see them. | Я вижу их.
+my — мой | This is my book. | Это моя книга.
+your — твой | Where is your bag? | Где твоя сумка?
+her — её | Her car is red. | Её машина красная.
+its — его | The cat licked its paw. | Кот лизнул свою лапу.
+our — наш | Our house is big. | Наш дом большой.
+their — их | Their dog is cute. | Их собака милая.
+mine — мой | This seat is mine. | Это место моё.
+yours — твой | The choice is yours. | Выбор за тобой.
+his — его | That is his phone. | Это его телефон.
+hers — её | The hat is hers. | Шляпа её.
+ours — наш | Victory is ours! | Победа наша!
+theirs — их | The plan was theirs. | План был их.
+this — этот | This is easy. | Это легко.
+all — все | All is well. | Всё хорошо.
+first — первый | She was first. | Она была первой.
+second — второй | I came second. | Я пришёл вторым.
+third — третий | He lives on the third floor. | Он живёт на третьем этаже.
+next — следующий | Next please! | Следующий, пожалуйста!
+last — последний | This is the last one. | Это последний.
+one — один | One is missing. | Не хватает одного.
+two — два | Two are enough. | Двух достаточно.
+three — три | We need three. | Нам нужно три.
+four — четыре | Four chairs left. | Осталось четыре стула.
+five — пять | Five ideas emerged. | Появилось пять идей.
+six — шесть | The clock struck six. | Часы пробили шесть.
+seven — семь | Seven days passed. | Прошло семь дней.
+eight — восемь | He ate eight cookies. | Он съел восемь печений.
+nine — девять | Nine people came. | Пришло девять человек.
+ten — десять | Ten minutes left. | Осталось десять минут.
+again — снова | Try again. | Попробуй снова.
+always — всегда | She always smiles. | Она всегда улыбается.
+never — никогда | Never give up. | Никогда не сдавайся.
+another — другой | Give me another. | Дай мне другой.
+other — другой | Other ways exist. | Существуют другие способы.
+same — такой же | We have the same idea. | У нас та же идея.
+different — другой | This is different. | Это другое.
+a lot — много | I travel a lot. | Я много путешествую.
+and — и | You and me. | Ты и я.
+to — к | Go to bed. | Иди спать.
+in — в | Stay in line. | Стой в очереди.
+is — является | Time is money. | Время — деньги.
+that — что | I know that. | Я знаю это.
+was — был | He was tired. | Он был уставшим.
+for — для | This gift is for you. | Этот подарок для тебя.
+on — на | The book is on the table. | Книга на столе.
+are — являются | Cats are quiet. | Кошки тихие.
+as — как | Work as a team. | Работайте как команда.
+with — с | Come with me. | Пойдём со мной.
+at — в | Meet me at noon. | Встретимся в полдень.
+be — быть | Be yourself. | Будь собой.
+have — иметь | I have time. | У меня есть время.
+from — от | Letter from Mom. | Письмо от мамы.
+or — или | Coffee or tea? | Кофе или чай?
+had — имел | She had a plan. | У неё был план.
+by — к | Made by hand. | Сделано вручную.
+word — слово | Spell the word. | Произнеси слово.
+but — но | Small but strong. | Маленький, но сильный.
+not — нет | Do not worry. | Не волнуйся.
+what — что | What is this? | Что это?
+were — были | They were here. | Они были здесь.
+when — когда | When is lunch? | Когда обед?
+can — может | He can run. | Он может бежать.
+said — сказал | She said yes. | Она сказала «да».
+there — там | The key is there. | Ключ там.
+use — использовать | Use this tool. | Используй этот инструмент.
+zero — нуль | Temperature is zero. | Температура ноль.
+each — каждый | Each day counts. | Каждый день важен.
+which — который | Which one? | Какой из?
+do — делать | Do your best. | Делай лучшее.
+how — как | How are you? | Как дела?
+if — если | If it rains… | Если пойдёт дождь…
+will — воля | Will you come? | Придёшь?
+up — вверх | Look up! | Посмотри вверх!
+about — о | Talk about work. | Говори о работе.
+out — вне | Go out now. | Выйди сейчас.
+many — много | Many people came. | Пришло много людей.
+then — затем | Then we left. | Потом мы ушли.
+these — эти | Take these keys. | Возьми эти ключи.
+so — так | I think so. | Я так думаю.
+some — некоторый | Need some help. | Нужна помощь.
+would — бы | I would stay. | Я бы остался.
+make — делать | Make a wish. | Загадай желание.
+like — нравиться | I like it. | Мне это нравится.
+into — в | Jump into water. | Прыгни в воду.
+time — время | Time flies. | Время летит.
+has — имеет | She has ideas. | У неё есть идеи.
+look — смотреть | Look ahead. | Смотри вперёд.
+more — более | Need more info. | Нужно больше данных.
+write — писать | Write it down. | Запиши это.
+go — идти | Go home. | Иди домой.
+see — видеть | I see you. | Я вижу тебя.
+number — число | Pick a number. | Выбери число.
+no — нет | No problem. | Нет проблемы.
+way — способ | Find a way. | Найди способ.
+could — мог | I could help. | Я мог бы помочь.
+people — люди | People laughed. | Люди смеялись.
+than — чем | Faster than me. | Быстрее меня.
+water — вода | Drink water. | Пей воду.
+been — был | I’ve been there. | Я там был.
+call — вызов | Call me later. | Позвони мне позже.
+who — кто | Who is he? | Кто он?
+oil — масло | Add some oil. | Добавь масло.
+now — сейчас | Start now. | Начни сейчас.
+find — находить | Find the key. | Найди ключ.
+long — длинный | A long road. | Длинная дорога.
+down — вниз | Sit down. | Сядь.
+day — день | Good day! | Хорошего дня!
+did — делал | What did you do? | Что ты сделал?
+get — получать | Get a ticket. | Получи билет.
+come — приходить | Come here. | Иди сюда.
+made — сделал | She made coffee. | Она сделала кофе.
+may — может | May I help? | Могу я помочь?
+part — часть | My part is small. | Моя часть мала.
+over — над | Clouds over us. | Облака над нами.
+say — сказать | Say hello. | Скажи привет.
+set — набор | Set the alarm. | Поставь будильник.
+new — новый | New idea came. | Пришла новая идея.
+great — большой | Great job! | Отличная работа!
+put — помещать | Put it away. | Убери это.
+sound — звук | Hear that sound. | Слышишь звук?
+where — где | Where are we? | Где мы?
+end — конец | The end. | Конец.
+take — брать | Take a break. | Сделай паузу.
+help — помощь | Need help? | Нужна помощь?
+does — делает | What does it mean? | Что это значит?
+only — только | Only you. | Только ты.
+through — через | Walk through door. | Пройди через дверь.
+little — маленький | A little cat. | Маленький котёнок.
+much — много | Much better! | Гораздо лучше!
+well — хорошо | Sleep well. | Спи хорошо.
+work — работа | Work hard. | Работай усердно.
+before — до | Call before 5. | Позвони до пяти.
+large — большой | A large bag. | Большая сумка.
+know — знать | I know him. | Я его знаю.
+line — линия | Draw a line. | Нарисуй линию.
+must — должен | You must go. | Ты должен идти.
+place — место | Nice place. | Хорошее место.
+right — верно | You are right. | Ты прав.
+big — большой | Big house. | Большой дом.
+year — год | Next year. | В следующем году.
+too — слишком | Too late. | Слишком поздно.
+even — даже | Even now. | Даже сейчас.
+live — жить | Live well. | Живи хорошо.
+mean — значить | Words mean much. | Слова многое значат.
+such — такой | Such luck! | Такая удача!
+old — старый | Old friend. | Старый друг.
+because — потому что | Smile because life is good. | Улыбайся, потому что жизнь хороша.
+back — назад | Go back. | Вернись.
+any — любой | Any time. | В любое время.
+turn — повернуть | Turn left. | Поверни налево.
+give — давать | Give me five. | Дай пять.
+here — здесь | Stay here. | Оставайся здесь.
+most — большинство | Most agree. | Большинство согласны.
+
+and — и | I like tea and coffee. | Я люблю чай и кофе.
+to — к | Give it to me. | Дай это мне.
+in — в | She is in the car. | Она в машине.
+is — является | This is easy. | Это легко.
+that — что | I know that fact. | Я знаю этот факт.
+was — был | He was late. | Он опоздал.
+for — для | This gift is for you. | Этот подарок для тебя.
+on — на | The book is on the table. | Книга на столе.
+are — являются | They are doctors. | Они врачи.
+as — как | Work as a team. | Работайте как команда.
+with — с | Come with us. | Пойдём с нами.
+at — в | Meet me at nine. | Встреться со мной в девять.
+be — быть | I want to be happy. | Я хочу быть счастливым.
+have — иметь | They have a car. | У них есть машина.
+from — от | She comes from Spain. | Она из Испании.
+or — или | Tea or coffee? | Чай или кофе?
+had — имел | I had a dream. | У меня был сон.
+by — к | Stand by me. | Постой рядом со мной.
+word — слово | Learn one new word. | Выучи одно новое слово.
+but — но | Small but nice. | Маленький, но милый.
+not — нет | Do not worry. | Не волнуйся.
+what — что | What is this? | Что это?
+were — были | We were busy. | Мы были заняты.
+when — когда | Call me when ready. | Позвони, когда будешь готов.
+can — может | She can swim. | Она умеет плавать.
+said — сказал | He said hello. | Он сказал «привет».
+there — там | The keys are there. | Ключи там.
+use — использовать | Use this pen. | Используй эту ручку.
+zero — нуль | The score is zero. | Счёт — ноль.
+each — каждый | Each day counts. | Каждый день важен.
+which — который | Which way now? | Куда теперь?
+do — делать | I do my work. | Я делаю свою работу.
+how — как | How are you? | Как дела?
+if — если | If it rains, stay. | Если пойдёт дождь — оставайся.
+will — воля | Time will tell. | Время покажет.
+up — вверх | Look up there. | Посмотри наверх.
+about — о | Tell me about it. | Расскажи об этом.
+out — вне | Go out now. | Выйди сейчас.
+many — много | Many came today. | Многие пришли сегодня.
+then — затем | Then we left. | Потом мы ушли.
+these — эти | Take these apples. | Возьми эти яблоки.
+so — так | I think so. | Я так думаю.
+some — некоторый | Have some tea. | Выпей немного чая.
+would — бы | I would help. | Я бы помог.
+make — делать | Make a cake. | Испеки торт.
+like — нравиться | I like music. | Мне нравится музыка.
+into — в | Jump into the pool. | Прыгни в бассейн.
+time — время | Time is money. | Время — деньги.
+has — имеет | She has a cat. | У неё есть кот.
+look — смотреть | Look at me. | Посмотри на меня.
+more — более | We need more. | Нам нужно больше.
+write — писать | Write your name. | Напиши своё имя.
+go — идти | Let's go home. | Пойдём домой.
+see — видеть | I see you. | Я вижу тебя.
+number — число | Pick a number. | Выбери число.
+no — нет | No, thank you. | Нет, спасибо.
+way — способ | Find a way. | Найди способ.
+could — мог | He could run. | Он мог бегать.
+people — люди | People like stories. | Люди любят истории.
+than — чем | Better than ever. | Лучше, чем когда‑либо.
+water — вода | Drink water daily. | Пей воду каждый день.
+been — был | I've been there. | Я там был.
+call — вызов | Call me tonight. | Позвони мне вечером.
+who — кто | Who is she? | Кто она?
+oil — масло | Add oil now. | Добавь масло сейчас.
+now — сейчас | Do it now. | Сделай это сейчас.
+find — находить | Find your keys. | Найди свои ключи.
+long — длинный | A long road. | Длинная дорога.
+down — вниз | Sit down here. | Сядь здесь.
+day — день | It's a good day. | Хороший день.
+did — делал | What did you do? | Что ты сделал?
+get — получать | Get some rest. | Отдохни немного.
+come — приходить | Come home soon. | Приходи домой скоро.
+made — сделал | She made tea. | Она сделала чай.
+may — может | May I go? | Можно мне идти?
+part — часть | Take part. | Прими участие.
+over — над | Fly over us. | Пролетай над нами.
+say — сказать | Say something. | Скажи что‑нибудь.
+set — набор | Set the table. | Накрой на стол.
+new — новый | A new phone. | Новый телефон.
+great — большой | Great job! | Отличная работа!
+put — помещать | Put it here. | Положи это сюда.
+sound — звук | Hear that sound. | Слышишь тот звук?
+where — где | Where are you? | Где ты?
+end — конец | The end is near. | Конец близок.
+take — брать | Take my hand. | Возьми мою руку.
+help — помощь | Need help? | Нужна помощь?
+does — делает | What does it do? | Что это делает?
+only — только | Only one left. | Остался только один.
+through — через | Walk through door. | Иди через дверь.
+little — маленький | A little bird. | Маленькая птица.
+much — много | Much to learn. | Много учиться.
+well — хорошо | Sleep well. | Спи хорошо.
+work — работа | Work starts now. | Работа начинается сейчас.
+before — до | Finish before six. | Закончите до шести.
+and — и | I like tea and coffee. | Я люблю чай и кофе.
+to — к | Give it to me. | Дай это мне.
+in — в | She is in the car. | Она в машине.
+is — является | This is easy. | Это легко.
+that — что | I know that fact. | Я знаю этот факт.
+was — был | He was late. | Он опоздал.
+for — для | This gift is for you. | Этот подарок для тебя.
+on — на | The book is on the table. | Книга на столе.
+are — являются | They are doctors. | Они врачи.
+as — как | Work as a team. | Работайте как команда.
+with — с | Come with us. | Пойдём с нами.
+at — в | Meet me at nine. | Встреться со мной в девять.
+be — быть | I want to be happy. | Я хочу быть счастливым.
+have — иметь | They have a car. | У них есть машина.
+from — от | She comes from Spain. | Она из Испании.
+or — или | Tea or coffee? | Чай или кофе?
+had — имел | I had a dream. | У меня был сон.
+by — к | Stand by me. | Постой рядом со мной.
+word — слово | Learn one new word. | Выучи одно новое слово.
+but — но | Small but nice. | Маленький, но милый.
+not — нет | Do not worry. | Не волнуйся.
+what — что | What is this? | Что это?
+were — были | We were busy. | Мы были заняты.
+when — когда | Call me when ready. | Позвони, когда будешь готов.
+can — может | She can swim. | Она умеет плавать.
+said — сказал | He said hello. | Он сказал «привет».
+there — там | The keys are there. | Ключи там.
+use — использовать | Use this pen. | Используй эту ручку.
+zero — нуль | The score is zero. | Счёт — ноль.
+each — каждый | Each day counts. | Каждый день важен.
+which — который | Which way now? | Куда теперь?
+do — делать | I do my work. | Я делаю свою работу.
+how — как | How are you? | Как дела?
+if — если | If it rains, stay. | Если пойдёт дождь — оставайся.
+will — воля | Time will tell. | Время покажет.
+up — вверх | Look up there. | Посмотри наверх.
+about — о | Tell me about it. | Расскажи об этом.
+out — вне | Go out now. | Выйди сейчас.
+many — много | Many came today. | Многие пришли сегодня.
+then — затем | Then we left. | Потом мы ушли.
+these — эти | Take these apples. | Возьми эти яблоки.
+so — так | I think so. | Я так думаю.
+some — некоторый | Have some tea. | Выпей немного чаю.
+would — бы | I would help. | Я бы помог.
+make — делать | Make a cake. | Испеки торт.
+like — нравиться | I like music. | Мне нравится музыка.
+into — в | Jump into the pool. | Прыгни в бассейн.
+time — время | Time is money. | Время — деньги.
+has — имеет | She has a cat. | У неё есть кот.
+look — смотреть | Look at me. | Посмотри на меня.
+more — более | We need more. | Нам нужно больше.
+write — писать | Write your name. | Напиши своё имя.
+go — идти | Let's go home. | Пойдём домой.
+see — видеть | I see you. | Я вижу тебя.
+number — число | Pick a number. | Выбери число.
+no — нет | No, thank you. | Нет, спасибо.
+way — способ | Find a way. | Найди способ.
+could — мог | He could run. | Он мог бегать.
+people — люди | People like stories. | Люди любят истории.
+than — чем | Better than ever. | Лучше, чем когда‑либо.
+water — вода | Drink water daily. | Пей воду каждый день.
+been — был | I've been there. | Я там был.
+call — вызов | Call me tonight. | Позвони мне вечером.
+find — находить | Find the key. | Найди ключ.
+long — длинный | A long road. | Долгая дорога.
+down — вниз | Sit down. | Сядь.
+day — день | Good day! | Добрый день!
+did — делал | What did you say? | Что ты сказал?
+get — получать | Get some rest. | Отдохни немного.
+come — приходить | Come here. | Подойди сюда.
+made — сделал | She made dinner. | Она приготовила ужин.
+may — может | May I sit? | Можно сесть?
+part — часть | A big part. | Большая часть.
+over — над | Clouds over us. | Облака над нами.
+say — сказать | Say hello! | Скажи «привет»!
+set — набор | A set of tools. | Набор инструментов.
+new — новый | A new idea. | Новая идея.
+great — большой | A great job! | Отличная работа!
+put — помещать | Put it here. | Положи это сюда.
+sound — звук | I heard a sound. | Я услышал звук.
+where — где | Where are you? | Где ты?
+end — конец | The end. | Конец.
+take — брать | Take a seat. | Присядь.
+help — помощь | Need help? | Нужна помощь?
+does — делает | What does he do? | Чем он занимается?
+only — только | Only one left. | Остался только один.
+through — через | Walk through here. | Пройди через здесь.
+little — маленький | A little cat. | Маленький котёнок.
+much — много | Too much work. | Слишком много работы.
+well — хорошо | Sleep well. | Спи хорошо.
+work — работа | Work hard. | Работай усердно.
+before — до | Before dinner. | Перед ужином.
+large — большой | A large room. | Большая комната.
+know — знать | I know this. | Я это знаю.
+line — линия | Draw a line. | Проведи линию.
+must — должен | You must go. | Ты должен идти.
+place — место | A quiet place. | Тихое место.
+right — верно | You're right. | Ты прав.
+big — большой | A big tree. | Большое дерево.
+year — год | Happy New Year! | С Новым годом!
+too — слишком | Too late. | Слишком поздно.
+even — даже | Even he knows. | Даже он знает.
+live — жить | Live well. | Живи хорошо.
+mean — иметь в виду | What do you mean? | Что ты имеешь в виду?
+such — такой | Such beauty! | Такая красота!
+old — старый | An old house. | Старый дом.
+because — потому что | Stay, because I care. | Останься, потому что я забочусь.
+back — назад | Go back. | Иди назад.
+any — любой | Any questions? | Есть вопросы?
+turn — повернуть | Turn left. | Поверни налево.
+give — давать | Give me that. | Дай мне это.
+here — здесь | Come here. | Иди сюда.
+most — большинство | Most agree. | Большинство согласны.
+tell — рассказывать | Tell the truth. | Расскажи правду.
+why — почему | Why so sad? | Почему так грустно?
+very — очень | Very good! | Очень хорошо!
+boy — мальчик | The boy runs. | Мальчик бежит.
+ask — просить | Ask again. | Спроси ещё раз.
+after — после | After work. | После работы.
+follow — следовать | Follow me. | Следуй за мной.
+went — шёл | He went home. | Он пошёл домой.
+thing — вещь | Take your thing. | Возьми свою вещь.
+came — пришёл | She came early. | Она пришла рано.
+men — мужчины | Men at work. | Мужчины работают.
+want — хотеть | I want more. | Я хочу больше.
+read — читать | Read this book. | Прочитай эту книгу.
+just — только | Just do it. | Просто сделай это.
+show — показывать | Show me. | Покажи мне.
+need — нуждаться | I need help. | Мне нужна помощь.
+name — имя | My name is Tom. | Меня зовут Том.
+also — также | She also came. | Она тоже пришла.
+land — земля | The land is dry. | Земля сухая.
+good — хороший | A good idea. | Хорошая идея.
+around — вокруг | Look around you. | Посмотри вокруг.
+sentence — предложение | Read the sentence. | Прочитай предложение.
+form — форма | Fill this form. | Заполни эту форму.
+home — дом | Go home. | Иди домой.
+man — мужчина | The man smiled. | Мужчина улыбнулся.
+think — думать | Think again. | Подумай ещё раз.
+small — маленький | A small cat. | Маленький кот.
+move — двигаться | Move slowly. | Двигайся медленно.
+try — пытаться | Try your best. | Старайся изо всех сил.
+kind — добрый | Be kind. | Будь добрым.
+hand — рука | Raise your hand. | Подними руку.
+picture — картина | Nice picture! | Красивая картина!
+change — изменять | Change clothes. | Переоденься.
+off — выключенный | Turn off lights. | Выключи свет.
+play — играть | Play outside. | Играй на улице.
+spell — заклинание | Spell your name. | Произнеси своё имя по буквам.
+air — воздух | Fresh air helps. | Свежий воздух помогает.
+away — прочь | Go away! | Уходи!
+animal — животное | Feed the animal. | Кормите животное.
+house — дом | Big house there. | Там большой дом.
+point — точка | Good point. | Верное замечание.
+page — страница | Turn the page. | Переверни страницу.
+letter — письмо | Send a letter. | Отправь письмо.
+mother — мать | Mother knows best. | Мама знает лучше.
+answer — отвечать | Answer quickly. | Ответь быстро.
+found — найденный | I found it. | Я нашёл это.
+study — изучать | Study English. | Изучай английский.
+still — всё ещё | I’m still here. | Я всё ещё здесь.
+learn — учиться | Learn more. | Учись больше.
+should — должен | You should go. | Тебе следует идти.
+America — Америка | America is big. | Америка большая.
+world — мир | World is changing. | Мир меняется.
+high — высокий | A high wall. | Высокая стена.
+every — каждый | Every day counts. | Каждый день важен.
+eleven — одиннадцать | Eleven students came. | Пришли одиннадцать учеников.
+twelve — двенадцать | Twelve months pass. | Проходят двенадцать месяцев.
+thirteen — тринадцать | He is thirteen. | Ему тринадцать.
+fourteen — четырнадцать | She is fourteen. | Ей четырнадцать.
+fifteen — пятнадцать | Fifteen apples here. | Здесь пятнадцать яблок.
+sixteen — шестнадцать | Sixteen years old. | Шестнадцать лет.
+seventeen — семнадцать | He turned seventeen. | Ему исполнилось семнадцать.
+eighteen — восемнадцать | Eighteen votes counted. | Подсчитано восемнадцать голосов.
+nineteen — девятнадцать | Nineteen minutes left. | Осталось девятнадцать минут.
+twenty — двадцать | Twenty cars parked. | Запарковано двадцать машин.
+near — около | Sit near me. | Сядь рядом со мной.
+add — добавлять | Add salt. | Добавь соли.
+food — еда | Food is ready. | Еда готова.
+between — между | Sit between friends. | Сядь между друзьями.
+own — собственный | Write your own. | Напиши своё.
+below — ниже | See below. | Смотри ниже.
+country — страна | My country home. | Мой сельский дом.
+plant — растение | Water the plant. | Полей растение.
+school — школа | School starts soon. | Школа скоро начинается.
+father — отец | Father is here. | Отец здесь.
+keep — держать | Keep calm. | Сохраняй спокойствие.
+tree — дерево | Climb the tree. | Залезь на дерево.
+start — начинать | Start now. | Начинай сейчас.
+city — город | A big city. | Большой город.
+earth — земля | Earth is round. | Земля круглая.
+eye — глаз | Close one eye. | Закрой один глаз.
+light — свет | Turn on light. | Включи свет.
+thought — мысль | Interesting thought. | Интересная мысль.
+head — голова | Shake your head. | Потряси головой.
+under — под | Sit under tree. | Сядь под деревом.
+story — история | Tell a story. | Расскажи историю.
+saw — пила | He saw me. | Он видел меня.
+important — важный | Important news. | Важные новости.
+left — левый | Turn left. | Поверни налево.
+until — до | Wait until ten. | Жди до десяти.
+don't — не | Don't move. | Не двигайся.
+children — дети | Children play. | Дети играют.
+few — немного | Few people came. | Пришло мало людей.
+side — сторона | Other side now. | Теперь другая сторона.
+while — пока | Stay while I work. | Оставайся, пока я работаю.
+feet — ноги | Wash your feet. | Помой ноги.
+along — вдоль | Walk along river. | Иди вдоль реки.
+car — машина | New car shines. | Новая машина блестит.
+might — мощь | He might come. | Он может прийти.
+mile — миля | One mile left. | Осталась одна миля.
+close — закрывать | Close the door. | Закрой дверь.
+night — ночь | Good night! | Спокойной ночи!
+something — что‑нибудь | Say something. | Скажи что‑нибудь.
+walk — ходить | Walk slowly. | Гуляй медленно.
+seem — казаться | You seem tired. | Ты выглядишь уставшим.
+white — белый | White snow fell. | Выпал белый снег.
+sea — море | Sea is calm. | Море спокойно.
+hard — жёсткий | Hard work pays. | Тяжёлый труд окупается.
+began — начал | He began early. | Он начал рано.
+open — открыть | Open window. | Открой окно.
+grow — расти | Plants grow fast. | Растения быстро растут.
+example — пример | Good example. | Хороший пример.
+took — взял | She took it. | Она взяла это.
+begin — начинать | Begin again. | Начни снова.
+river — река | Cross the river. | Перейди реку.
+life — жизнь | Life is short. | Жизнь коротка.
+carry — нести | Carry bags. | Неси сумки.
+those — те | Take those apples. | Возьми те яблоки.
+state — состояние | State the fact. | Укажи факт.
+both — оба | Both are fine. | Оба в порядке.
+once — однажды | Once I knew. | Однажды я знал.
+paper — бумага | Fold paper. | Сложи бумагу.
+book — книга | Read this book. | Прочитай эту книгу.
+together — вместе | Work together. | Работайте вместе.
+hear — слышать | Hear music? | Слышишь музыку?
+got — получил | I got it. | Я понял это.
+stop — остановиться | Stop here. | Остановись здесь.
+group — группа | Join our group. | Присоединяйся к группе.
+without — без | Tea without sugar. | Чай без сахара.
+often — часто | He often visits. | Он часто навещает.
+run — бегать | Run faster! | Беги быстрее!
+later — позже | Call later. | Позвони позже.
+miss — скучать | I miss you. | Я скучаю по тебе.
+idea — идея | Great idea! | Отличная идея!
+enough — достаточно | Enough talk. | Хватит разговора.
+eat — есть | Eat breakfast. | Поешь завтрак.
+face — лицо | Wash your face. | Умой лицо.
+watch — смотреть | Watch this! | Смотри сюда!
+far — далеко | Far from home. | Далеко от дома.
+Indian — индийский | Indian food aromatic. | Индийская еда ароматна.
+really — действительно | Really nice! | Действительно классно.
+almost — почти | Almost done. | Почти готово.
+let — позволять | Let me go. | Позволь мне уйти.
+above — выше | Clouds above us. | Облака над нами.
+girl — девочка | The girl smiles. | Девочка улыбается.
+sometimes — иногда | I sometimes run. | Я иногда бегаю.
+mountain — гора | Climb the mountain. | Заберись на гору.
+cut — резать | Cut the bread. | Нарежь хлеб.
+young — молодой | Young trees grow. | Молодые деревья растут.
+talk — разговаривать | Talk to me. | Поговори со мной.
+soon — скоро | See you soon. | Увидимся скоро.
+list — список | Make a list. | Составь список.
+song — песня | Sing a song. | Спой песню.
+being — существование | Being happy matters. | Важно быть счастливым.
+leave — оставлять | Leave the room. | Оставь комнату.
+family — семья | Family is everything. | Семья — это всё.
+it's — это | It's my bike. | Это мой велосипед.
+body — тело | Stretch your body. | Разомни тело.
+music — музыка | Play music. | Включи музыку.
+color — цвет | Pick a color. | Выбери цвет.
+stand — стоять | Stand still. | Стой тихо.
+sun — солнце | Sun is bright. | Солнце яркое.
+question — вопрос | Ask a question. | Задай вопрос.
+fish — рыба | Catch a fish. | Поймай рыбу.
+area — область | Quiet area here. | Здесь тихая область.
+mark — отметка | Mark the page. | Отметь страницу.
+dog — собака | Dog barks loudly. | Собака громко лает.
+horse — лошадь | Ride a horse. | Покатайся на лошади.
+birds — птицы | Birds sing outside. | Птицы поют снаружи.
+problem — проблема | Solve the problem. | Реши проблему.
+complete — полный | Task complete. | Задание выполнено.
+room — комната | Clean the room. | Убери комнату.
+knew — знал | I knew it. | Я знал это.
+since — с | Since Monday. | С понедельника.
+ever — всегда | Best ever! | Лучший всегда!
+piece — кусок | Take a piece. | Возьми кусок.
+told — сказал | She told me. | Она сказала мне.
+usually — обычно | I usually read. | Я обычно читаю.
+didn't — не сделал | He didn't come. | Он не пришёл.
+friends — друзья | Friends help. | Друзья помогают.
+easy — лёгкий | Easy task ahead. | Лёгкое задание впереди.
+heard — слышал | I heard noise. | Я услышал шум.
+order — заказ | Place an order. | Оформь заказ.
+red — красный | Red apple shines. | Красное яблоко блестит.
+door — дверь | Open the door. | Открой дверь.
+sure — конечно | Sure, why not? | Конечно, почему бы и нет?
+become — становиться | Become better. | Становись лучше.
+top — вершина | Reach the top. | Достигни вершины.
+ship — корабль | Ship left port. | Корабль ушёл из порта.
+across — через | Walk across street. | Перейди улицу.
+today — сегодня | Today is sunny. | Сегодня солнечно.
+during — в течение | Sleep during flight. | Спи во время полёта.
+short — короткий | Short break now. | Сейчас короткий перерыв.
+better — лучше | Feel better soon. | Почувствуй себя лучше.
+best — лучший | You are best. | Ты лучший.
+however — однако | However, stay calm. | Однако оставайся спокойным.
+low — низкий | Low prices here. | Здесь низкие цены.
+hours — часы | Two hours left. | Осталось два часа.
+black — чёрный | Black cat waits. | Чёрный кот ждёт.
+products — продукты | Fresh products sell. | Свежие продукты продаются.
+happened — случилось | What happened? | Что случилось?
+whole — весь | Whole cake gone. | Весь торт исчез.
+measure — мера | Measure twice. | Отмерь дважды.
+remember — помнить | Remember this day. | Запомни этот день.
+early — рано | Wake up early. | Вставай рано.
+waves — волны | Waves hit hard. | Волны бьют сильно.
+reached — достиг | He reached home. | Он добрался домой.
+done — сделанный | Job done! | Работа сделана!
+English — английский | Study English daily. | Учите английский ежедневно.
+road — дорога | Cross the road. | Перейди дорогу.
+halt — остановка | Buses halt here. | Автобусы останавливаются здесь.
+fly — летать | Birds fly high. | Птицы летят высоко.
+gave — отдал | She gave money. | Она дала деньги.
+box — коробка | Open the box. | Открой коробку.
+finally — наконец | We finally met. | Мы наконец встретились.
+wait — ждать | Please wait here. | Пожалуйста, подожди здесь.
+correct — правильный | Your answer correct. | Твой ответ правильный.
+oh — ой | Oh, that's hot! | Ой, это горячо!
+quickly — быстро | Run quickly now. | Беги сейчас быстро.
+person — человек | Nice person there. | Там хороший человек.
+became — стал | He became doctor. | Он стал доктором.
+shown — показано | Map shown above. | Карта показана выше.
+minutes — минуты | Ten minutes left. | Осталось десять минут.
+strong — сильный | Stay strong. | Оставайся сильным.
+verb — глагол | “Run” is verb. | «Run» — это глагол.
+stars — звёзды | Stars shine bright. | Звёзды ярко сияют.
+front — передний | Sit in front. | Сядь впереди.
+feel — чувствовать | I feel good. | Я чувствую себя хорошо.
+fact — факт | That's a fact. | Это факт.
+inches — дюймы | Two inches wide. | Шириной два дюйма.
+street — улица | Clean the street. | Убери улицу.
+decided — решил | She decided quickly. | Она решила быстро.
+contain — содержать | Boxes contain books. | Коробки содержат книги.
+course — курс | Take this course. | Пройди этот курс.
+surface — поверхность | Touch the surface. | Коснись поверхности.
+produce — производить | Farms produce milk. | Фермы производят молоко.
+building — здание | Tall building ahead. | Высокое здание впереди.
+ocean — океан | Ocean is deep. | Океан глубок.
+class — класс | Math class starts. | Урок математики начинается.
+note — примечание | Write a note. | Напиши заметку.
+nothing — ничего | Nothing is here. | Здесь ничего нет.
+rest — отдых | Take a rest. | Отдохни.
+carefully — осторожно | Drive carefully. | Веди осторожно.
+scientists — учёные | Scientists discover cures. | Учёные находят лекарства.
+inside — внутри | Stay inside house. | Оставайся внутри дома.
+wheels — колёса | Wheels spin fast. | Колёса быстро крутятся.
+stay — оставаться | Stay home today. | Оставайся дома сегодня.
+green — зелёный | Green light go. | Зелёный сигнал — идём.
+known — известен | He is known. | Он известен.
+island — остров | Visit the island. | Посети остров.
+week — неделя | Next week busy. | Следующая неделя занята.
+less — меньше | Spend less money. | Трать меньше денег.
+machine — машина | Start the machine. | Запусти машину.
+base — база | Return to base. | Вернись на базу.
+ago — назад | Years ago happened. | Произошло много лет назад.
+stood — стоял | She stood silent. | Она стояла молча.
+plane — самолёт | Plane takes off. | Самолёт взлетает.
+system — система | Update the system. | Обнови систему.
+behind — позади | Stay behind me. | Оставайся позади меня.
+ran — побежал | He ran home. | Он побежал домой.
+round — круглый | Round table here. | Здесь круглый стол.
+boat — лодка | Row the boat. | Греби лодку.
+game — игра | Join the game. | Присоединяйся к игре.
+force — сила | Use your force. | Используй свою силу.
+brought — принёс | He brought food. | Он принёс еду.
+understand — понимать | I understand you. | Я понимаю тебя.
+warm — тёплый | Keep the soup warm. | Держи суп тёплым.
+common — общий | We share common goals. | У нас общие цели.
+bring — приносить | Bring the keys. | Принеси ключи.
+explain — объяснять | Please explain again. | Пожалуйста, объясни ещё раз.
+dry — сухой | Keep clothes dry. | Держи одежду сухой.
+though — хотя | Though tired, he smiled. | Хотя устал, он улыбнулся.
+language — язык | Language connects people. | Язык соединяет людей.
+shape — форма | Cut a round shape. | Вырежи круглую форму.
+deep — глубокий | The lake is deep. | Озеро глубокое.
+thousands — тысячи | Thousands cheered loudly. | Тысячи громко приветствовали.
+yes — да | Say yes soon. | Скажи «да» вскоре.
+clear — ясный | Sky is clear. | Небо ясное.
+equation — уравнение | Solve this equation. | Реши это уравнение.
+yet — ещё | Not finished yet. | Ещё не завершено.
+government — правительство | Government changed laws. | Правительство изменило законы.
+filled — заполненный | Glass filled fully. | Стакан полностью заполнен.
+heat — нагревать | Heat the water. | Нагрей воду.
+full — полный | The box is full. | Коробка полная.
+hot — горячий | Coffee is hot. | Кофе горячий.
+check — проверять | Check your work. | Проверь свою работу.
+object — объект | Move the object. | Перемести объект.
+am — являюсь | I am ready. | Я готов.
+rule — правило | Follow the rule. | Следуй правилу.
+among — среди | Sit among friends. | Сядь среди друзей.
+noun — существительное | “Dog” is noun. | «Dog» — существительное.
+power — власть | Knowledge is power. | Знание — сила.
+cannot — не могу | I cannot wait. | Я не могу ждать.
+able — способный | She is able. | Она способна.
+size — размер | Choose right size. | Выбери правильный размер.
+dark — тёмный | Street is dark. | Улица тёмная.
+ball — мяч | Kick the ball. | Ударь мяч.
+material — материал | What material this? | Из какого это материала?
+special — особенный | Today is special. | Сегодня особенный день.
+heavy — тяжёлый | Bag feels heavy. | Сумка тяжёлая.
+fine — отлично | You did fine. | Ты сделал отлично.
+pair — пара | Need a pair. | Нужна пара.
+circle — круг | Draw a circle. | Нарисуй круг.
+include — включать | Include your name. | Включи своё имя.
+built — построен | Bridge built fast. | Мост построен быстро.
+can't — не мочь | I can't move. | Я не могу двигаться.
+matter — иметь значение | Details matter. | Детали имеют значение.
+square — квадрат | Cut a square. | Вырежи квадрат.
+syllables — слоги | Count three syllables. | Посчитай три слога.
+perhaps — возможно | Perhaps later. | Возможно позже.
+bill — счёт | Pay the bill. | Оплати счёт.
+felt — чувствовал | She felt cold. | Она чувствовала холод.
+suddenly — внезапно | It stopped suddenly. | Это внезапно остановилось.
+test — тест | Pass the test. | Пройди тест.
+direction — направление | Change direction now. | Измени направление сейчас.
+center — центр | Meet at center. | Встреться в центре.
+farmers — фермеры | Farmers grow wheat. | Фермеры выращивают пшеницу.
+ready — готовый | Dinner is ready. | Ужин готов.
+anything — что‑либо | Need anything else? | Нужен ли ещё что‑нибудь?
+divided — разделённый | Room divided equally. | Комната поделена поровну.
+general — общий | General opinion positive. | Общее мнение положительное.
+energy — энергия | Save your energy. | Сбереги энергию.
+subject — предмет | Math is subject. | Математика — предмет.
+Europe — Европа | Europe is large. | Европа большая.
+moon — луна | The moon shines. | Луна светит.
+region — регион | This region grows rice. | В этом регионе выращивают рис.
+return — возвращаться | Return soon, please. | Пожалуйста, вернись скоро.
+believe — верить | I believe you. | Я верю тебе.
+dance — танцевать | They dance together. | Они танцуют вместе.
+members — члены | Team members met. | Члены команды встретились.
+picked — выбрал | She picked red. | Она выбрала красное.
+simple — простой | The task is simple. | Задание простое.
+cells — клетки | Blood has cells. | В крови есть клетки.
+paint — краска | Mix the paint. | Смешай краску.
+mind — разум | Free your mind. | Освободи свой разум.
+love — любовь | Love conquers all. | Любовь побеждает всё.
+cause — причина | Find the cause. | Найди причину.
+rain — дождь | Rain is falling. | Идёт дождь.
+exercise — упражнение | Do morning exercise. | Делай утреннюю зарядку.
+eggs — яйца | Boil the eggs. | Свари яйца.
+train — тренироваться | He will train daily. | Он будет тренироваться ежедневно.
+blue — синий | The sky is blue. | Небо синее.
+wish — желание | Make a wish. | Загадай желание.
+drop — уронить | Don't drop it. | Не урони это.
+developed — развитый | City is developed. | Город развит.
+window — окно | Open the window. | Открой окно.
+difference — разница | Spot the difference. | Найди разницу.
+distance — расстояние | Keep distance please. | Держи дистанцию, пожалуйста.
+heart — сердце | Her heart beats. | Её сердце бьётся.
+sit — сидеть | Sit down here. | Сядь здесь.
+sum — сумма | Calculate the sum. | Вычисли сумму.
+summer — лето | Summer is hot. | Лето жаркое.
+wall — стена | Paint the wall. | Покрась стену.
+forest — лес | Walk through forest. | Пройдись по лесу.
+probably — вероятно | He will probably come. | Он вероятно придёт.
+legs — ноги | Stretch your legs. | Разомни ноги.
+sat — сел | She sat quietly. | Она тихо села.
+main — основной | Main idea clear. | Основная идея ясна.
+winter — зима | Winter feels cold. | Зима холодная.
+wide — широкий | Road is wide. | Дорога широкая.
+written — написано | It is written here. | Это написано здесь.
+length — длина | Measure the length. | Измерь длину.
+reason — причина | Give a reason. | Дай причину.
+kept — хранил | He kept notes. | Он хранил записи.
+interest — интерес | Show some interest. | Прояви интерес.
+arms — руки | Raise your arms. | Подними руки.
+brother — брат | My brother studies. | Мой брат учится.
+race — раса | Humans are one race. | Люди — одна раса.
+present — подарок | Open your present. | Открой подарок.
+beautiful — красивый | The garden is beautiful. | Сад красивый.
+store — магазин | Go to the store. | Иди в магазин.
+job — работа | I like my job. | Мне нравится моя работа.
+edge — край | Stand at edge. | Встань на край.
+past — прошлое | Forget the past. | Забудь прошлое.
+sign — знак | Read the sign. | Прочитай знак.
+record — записывать | Record the video. | Запиши видео.
+finished — законченный | Work is finished. | Работа завершена.
+discovered — обнаруженный | Gold was discovered. | Золото было обнаружено.
+wild — дикий | Wild animals roam. | Дикие животные бродят.
+happy — счастливый | She feels happy. | Она чувствует себя счастливой.
+beside — рядом | Sit beside me. | Сядь рядом со мной.
+gone — ушёл | The cat is gone. | Кот ушёл.
+sky — небо | Sky looks clear. | Небо ясное.
+glass — стекло | Glass broke easily. | Стекло легко разбилось.
+million — миллион | It costs million. | Это стоит миллион.
+west — запад | The sun sets west. | Солнце садится на западе.
+lay — класть | Lay the book here. | Положи книгу сюда.
+weather — погода | The weather changed. | Погода изменилась.
+root — корень | Pull out the root. | Вынь корень.
+instruments — инструменты | Clean the instruments. | Почисть инструменты.
+meet — встречаться | We meet today. | Мы встречаемся сегодня.
+months — месяцы | Two months passed. | Прошло два месяца.
+paragraph — абзац | Read the paragraph. | Прочитай абзац.
+raised — поднятый | He raised hands. | Он поднял руки.
+represent — представлять | Flags represent countries. | Флаги представляют страны.
+soft — мягкий | The pillow is soft. | Подушка мягкая.
+whether — ли | Decide whether to go. | Реши, идти ли.
+clothes — одежда | Fold the clothes. | Сложи одежду.
+flowers — цветы | Water the flowers. | Полей цветы.
+shall — должен | Shall we start? | Нам начинать?
+teacher — учитель | The teacher smiles. | Учитель улыбается.
+held — держал | She held milk. | Она держала молоко.
+describe — описывать | Describe the scene. | Опиши сцену.
+drive — водить | I drive home. | Я еду домой.
+cross — крест | Draw a cross. | Нарисуй крест.
+speak — говорить | Speak louder, please. | Говори громче, пожалуйста.
+solve — решать | Solve the puzzle. | Реши головоломку.
+appear — появляться | Stars appear tonight. | Звёзды появляются сегодня.
+metal — металл | Metal feels cold. | Металл холодный.
+son — сын | His son laughed. | Его сын смеялся.
+either — либо | Take either cup. | Возьми любую чашку.
+ice — лёд | Ice melts fast. | Лёд быстро тает.
+sleep — спать | Babies sleep well. | Младенцы хорошо спят.
+village — деревня | The village sleeps. | Деревня спит.
+factors — факторы | Many factors matter. | Важны многие факторы.
+result — результат | Show the result. | Покажи результат.
+jumped — прыгнул | The cat jumped. | Кот прыгнул.
+snow — снег | Snow is falling. | Падает снег.
+ride — поездка | Enjoy the ride. | Наслаждайся поездкой.
+care — забота | I care deeply. | Я сильно забочусь.
+floor — пол | Sweep the floor. | Подмети пол.
+hill — холм | Climb the hill. | Взберись на холм.
+pushed — толкнул | He pushed door. | Он толкнул дверь.
+baby — малыш | The baby laughed. | Малыш засмеялся.
+buy — купить | Buy fresh bread. | Купи свежий хлеб.
+century — век | A century passed. | Прошёл век.
+outside — снаружи | Wait outside now. | Подожди снаружи сейчас.
+everything — всё | Everything is fine. | Всё хорошо.
+tall — высокий | He is tall. | Он высокий.
+already — уже | I already know. | Я уже знаю.
+instead — вместо | Take tea instead. | Возьми чай вместо этого.
+phrase — фраза | Learn the phrase. | Выучи фразу.
+soil — почва | Fertile soil helps. | Плодородная почва помогает.
+bed — кровать | Make the bed. | Заправь кровать.
+copy — копировать | Copy this file. | Скопируй этот файл.
+free — бесплатно | Water is free. | Вода бесплатна.
+hope — надеяться | Never lose hope. | Никогда не теряй надежду.
+spring — весна | Spring brings flowers. | Весна приносит цветы.
+case — случай | In this case. | В этом случае.
+laughed — рассмеялся | She laughed loudly. | Она громко рассмеялась.
+nation — нация | The nation votes. | Нация голосует.
+quite — довольно | Quite good work. | Довольно хорошая работа.
+type — тип | Choose a type. | Выбери тип.
+themselves — сами | They built themselves. | Они построили сами.
+temperature — температура | Check temperature now. | Проверь температуру сейчас.
+bright — яркий | Bright colors shine. | Яркие цвета сияют.
+lead — вести | Lead the way. | Веди дорогу.
+everyone — каждый | Everyone smiled back. | Каждый улыбнулся в ответ.
+method — метод | New method works. | Новый метод работает.
+section — раздел | Read this section. | Прочитай этот раздел.
+lake — озеро | The lake froze. | Озеро замёрзло.
+consonant — согласный | 'B' is consonant. | «B» — согласная.
+within — в пределах | Stay within limits. | Оставайся в пределах.
+dictionary — словарь | Open the dictionary. | Открой словарь.
+hair — волосы | Brush your hair. | Расчеши волосы.
+age — возраст | What is age? | Какой возраст?
+amount — количество | Reduce the amount. | Уменьши количество.
+scale — шкала | Check weight scale. | Проверь весы.
+pounds — фунты | Ten pounds gone. | Десять фунтов ушло.
+although — хотя | Although it rained. | Хотя шёл дождь.
+per — за | Miles per hour. | Миль в час.
+broken — сломанный | The glass broken. | Стекло сломано.
+moment — момент | Wait one moment. | Подожди момент.
+tiny — крошечный | A tiny bug. | Крошечный жучок.
+possible — возможный | Anything is possible. | Всё возможно.
+gold — золото | Gold shines bright. | Золото ярко блестит.
+milk — молоко | Drink warm milk. | Выпей тёплого молока.
+quiet — тихий | Be quiet please. | Будь тихим, пожалуйста.
+natural — естественный | Natural light helps. | Естественный свет помогает.
+lot — много | A lot changed. | Многое изменилось.
+stone — камень | Throw the stone. | Брось камень.
+act — действовать | Act right now. | Действуй прямо сейчас.
+build — строить | Build a house. | Построй дом.
+middle — середина | In the middle. | В середине.
+speed — скорость | Increase the speed. | Увеличь скорость.
+count — считать | Count to ten. | Посчитай до десяти.
+cat — кот | The cat sleeps. | Кот спит.
+someone — кто‑то | Someone knocked. | Кто‑то постучал.
+sail — плыть | Sail the boat. | Плыви на лодке.
+rolled — свернул | He rolled map. | Он свернул карту.
+bear — медведь | A bear roared. | Медведь зарычал.
+wonder — удивляться | I wonder why. | Интересно, почему.
+smiled — улыбнулся | He smiled gently. | Он мягко улыбнулся.
+angle — угол | Measure the angle. | Измерь угол.
+fraction — дробь | Simplify the fraction. | Упростите дробь.
+Africa — Африка | Africa is vast. | Африка огромна.
+killed — убил | He killed time. | Он убил время.
+melody — мелодия | Hum the melody. | Насвисти мелодию.
+bottom — дно | Touch the bottom. | Коснись дна.
+trip — поездка | Enjoy the trip. | Наслаждайся поездкой.
+hole — дыра | Fix the hole. | Почини дыру.
+poor — бедный | He is poor. | Он беден.
+let's — давайте | Let's begin now. | Давайте начнём сейчас.
+fight — драться | Never fight again. | Больше не деритесь.
+surprise — сюрприз | What a surprise! | Какой сюрприз!
+French — французский | Learn French words. | Выучи французские слова.
+died — умер | The hero died. | Герой умер.
+beat — бить | Drums beat loudly. | Барабаны громко бьют.
+exactly — точно | Exactly five left. | Осталось ровно пять.
+remain — оставаться | Remain calm please. | Оставайся спокойным, пожалуйста.
+dress — платье | Nice blue dress. | Красивое синее платье.
+iron — железо | Iron is heavy. | Железо тяжёлое.
+couldn't — не мог | I couldn't answer. | Я не смог ответить.
+fingers — пальцы | Wiggle your fingers. | Пошевели пальцами.
+row — ряд | Stand in row. | Встань в ряд.
+least — наименьший | Choose least risk. | Выбери наименьший риск.
+catch — ловить | Catch the ball. | Поймай мяч.
+climbed — взобрался | She climbed up. | Она поднялась.
+wrote — написал | He wrote note. | Он написал записку.
+shouted — кричал | They shouted loudly. | Они громко кричали.
+continued — продолжил | She continued reading. | Она продолжила чтение.
+itself — само | Door closed itself. | Дверь закрылась сама.
+else — ещё | Anything else? | Что‑нибудь ещё?
+plains — равнины | Steppes are plains. | Степи — это равнины.
+gas — газ | Gas leaked out. | Газ утёк.
+England — Англия | England is rainy. | В Англии дождливо.
+burning — горящий | Burning wood crackles. | Горящие дрова трещат.
+design — дизайн | The design changed. | Дизайн изменился.
+joined — присоединился | She joined team. | Она присоединилась к команде.
+foot — ступня | Hurt my foot. | Я повредил ступню.
+law — закон | Respect the law. | Соблюдай закон.
+ears — уши | Cover your ears. | Закрой уши.
+grass — трава | Cut the grass. | Покоси траву.
+you're — ты есть | You're right. | Ты прав.
+grew — вырос | Plant grew fast. | Растение быстро выросло.
+skin — кожа | Skin feels dry. | Кожа сухая.
+valley — долина | Fog filled valley. | Туман наполнил долину.
+cents — центы | It costs fifty cents. | Это стоит пятьдесят центов.
+key — ключ | Take the key. | Возьми ключ.
+president — президент | The president spoke. | Президент выступил.
+brown — коричневый | Brown shoes shine. | Коричневые туфли блестят.
+trouble — беда | I'm in trouble. | Я в беде.
+cool — прохладный | It feels cool. | Здесь прохладно.
+cloud — облако | Dark cloud formed. | Образовалось тёмное облако.
+lost — потерянный | Wallet lost again. | Кошелёк снова потерян.
+sent — отправил | She sent message. | Она отправила сообщение.
+symbols — символы | Learn math symbols. | Учите математические символы.
+wear — носить | Wear warm clothes. | Носи тёплую одежду.
+bad — плохой | Bad news came. | Плохие новости пришли.
+save — сохранять | Save your work. | Сохрани свою работу.
+experiment — эксперимент | Start the experiment. | Начни эксперимент.
+engine — двигатель | Engine stopped suddenly. | Двигатель внезапно остановился.
+alone — один | He sits alone. | Он сидит один.
+drawing — рисунок | Show your drawing. | Покажи свой рисунок.
+east — восток | Birds fly east. | Птицы летят на восток.
+pay — платить | Pay the bill. | Оплати счёт.
+single — одинокий | A single rose. | Одна роза.
+touch — трогать | Don't touch it. | Не трогай это.
+information — информация | Share the information. | Поделись информацией.
+express — выражать | Express your idea. | Вырази свою мысль.

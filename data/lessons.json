@@ -1,0 +1,5432 @@
+[
+  {
+    "en": "I",
+    "ru": "я",
+    "example": "I am here.",
+    "example_ru": "Я здесь."
+  },
+  {
+    "en": "he",
+    "ru": "он",
+    "example": "He is my friend.",
+    "example_ru": "Он мой друг."
+  },
+  {
+    "en": "she",
+    "ru": "она",
+    "example": "She is happy.",
+    "example_ru": "Она счастлива."
+  },
+  {
+    "en": "it",
+    "ru": "это",
+    "example": "It is new.",
+    "example_ru": "Это новое."
+  },
+  {
+    "en": "we",
+    "ru": "мы",
+    "example": "We are ready.",
+    "example_ru": "Мы готовы."
+  },
+  {
+    "en": "they",
+    "ru": "они",
+    "example": "They are late.",
+    "example_ru": "Они опоздали."
+  },
+  {
+    "en": "me",
+    "ru": "мне",
+    "example": "Give me a pen.",
+    "example_ru": "Дай мне ручку."
+  },
+  {
+    "en": "you",
+    "ru": "ты",
+    "example": "You are kind.",
+    "example_ru": "Ты добр."
+  },
+  {
+    "en": "him",
+    "ru": "ему",
+    "example": "Tell him tomorrow.",
+    "example_ru": "Скажи ему завтра."
+  },
+  {
+    "en": "us",
+    "ru": "нас",
+    "example": "Join us now.",
+    "example_ru": "Присоединяйся к нам сейчас."
+  },
+  {
+    "en": "them",
+    "ru": "их",
+    "example": "I see them.",
+    "example_ru": "Я вижу их."
+  },
+  {
+    "en": "my",
+    "ru": "мой",
+    "example": "This is my book.",
+    "example_ru": "Это моя книга."
+  },
+  {
+    "en": "your",
+    "ru": "твой",
+    "example": "Where is your bag?",
+    "example_ru": "Где твоя сумка?"
+  },
+  {
+    "en": "her",
+    "ru": "её",
+    "example": "Her car is red.",
+    "example_ru": "Её машина красная."
+  },
+  {
+    "en": "its",
+    "ru": "его",
+    "example": "The cat licked its paw.",
+    "example_ru": "Кот лизнул свою лапу."
+  },
+  {
+    "en": "our",
+    "ru": "наш",
+    "example": "Our house is big.",
+    "example_ru": "Наш дом большой."
+  },
+  {
+    "en": "their",
+    "ru": "их",
+    "example": "Their dog is cute.",
+    "example_ru": "Их собака милая."
+  },
+  {
+    "en": "mine",
+    "ru": "мой",
+    "example": "This seat is mine.",
+    "example_ru": "Это место моё."
+  },
+  {
+    "en": "yours",
+    "ru": "твой",
+    "example": "The choice is yours.",
+    "example_ru": "Выбор за тобой."
+  },
+  {
+    "en": "his",
+    "ru": "его",
+    "example": "That is his phone.",
+    "example_ru": "Это его телефон."
+  },
+  {
+    "en": "hers",
+    "ru": "её",
+    "example": "The hat is hers.",
+    "example_ru": "Шляпа её."
+  },
+  {
+    "en": "ours",
+    "ru": "наш",
+    "example": "Victory is ours!",
+    "example_ru": "Победа наша!"
+  },
+  {
+    "en": "theirs",
+    "ru": "их",
+    "example": "The plan was theirs.",
+    "example_ru": "План был их."
+  },
+  {
+    "en": "this",
+    "ru": "этот",
+    "example": "This is easy.",
+    "example_ru": "Это легко."
+  },
+  {
+    "en": "all",
+    "ru": "все",
+    "example": "All is well.",
+    "example_ru": "Всё хорошо."
+  },
+  {
+    "en": "first",
+    "ru": "первый",
+    "example": "She was first.",
+    "example_ru": "Она была первой."
+  },
+  {
+    "en": "second",
+    "ru": "второй",
+    "example": "I came second.",
+    "example_ru": "Я пришёл вторым."
+  },
+  {
+    "en": "third",
+    "ru": "третий",
+    "example": "He lives on the third floor.",
+    "example_ru": "Он живёт на третьем этаже."
+  },
+  {
+    "en": "next",
+    "ru": "следующий",
+    "example": "Next please!",
+    "example_ru": "Следующий, пожалуйста!"
+  },
+  {
+    "en": "last",
+    "ru": "последний",
+    "example": "This is the last one.",
+    "example_ru": "Это последний."
+  },
+  {
+    "en": "one",
+    "ru": "один",
+    "example": "One is missing.",
+    "example_ru": "Не хватает одного."
+  },
+  {
+    "en": "two",
+    "ru": "два",
+    "example": "Two are enough.",
+    "example_ru": "Двух достаточно."
+  },
+  {
+    "en": "three",
+    "ru": "три",
+    "example": "We need three.",
+    "example_ru": "Нам нужно три."
+  },
+  {
+    "en": "four",
+    "ru": "четыре",
+    "example": "Four chairs left.",
+    "example_ru": "Осталось четыре стула."
+  },
+  {
+    "en": "five",
+    "ru": "пять",
+    "example": "Five ideas emerged.",
+    "example_ru": "Появилось пять идей."
+  },
+  {
+    "en": "six",
+    "ru": "шесть",
+    "example": "The clock struck six.",
+    "example_ru": "Часы пробили шесть."
+  },
+  {
+    "en": "seven",
+    "ru": "семь",
+    "example": "Seven days passed.",
+    "example_ru": "Прошло семь дней."
+  },
+  {
+    "en": "eight",
+    "ru": "восемь",
+    "example": "He ate eight cookies.",
+    "example_ru": "Он съел восемь печений."
+  },
+  {
+    "en": "nine",
+    "ru": "девять",
+    "example": "Nine people came.",
+    "example_ru": "Пришло девять человек."
+  },
+  {
+    "en": "ten",
+    "ru": "десять",
+    "example": "Ten minutes left.",
+    "example_ru": "Осталось десять минут."
+  },
+  {
+    "en": "again",
+    "ru": "снова",
+    "example": "Try again.",
+    "example_ru": "Попробуй снова."
+  },
+  {
+    "en": "always",
+    "ru": "всегда",
+    "example": "She always smiles.",
+    "example_ru": "Она всегда улыбается."
+  },
+  {
+    "en": "never",
+    "ru": "никогда",
+    "example": "Never give up.",
+    "example_ru": "Никогда не сдавайся."
+  },
+  {
+    "en": "another",
+    "ru": "другой",
+    "example": "Give me another.",
+    "example_ru": "Дай мне другой."
+  },
+  {
+    "en": "other",
+    "ru": "другой",
+    "example": "Other ways exist.",
+    "example_ru": "Существуют другие способы."
+  },
+  {
+    "en": "same",
+    "ru": "такой же",
+    "example": "We have the same idea.",
+    "example_ru": "У нас та же идея."
+  },
+  {
+    "en": "different",
+    "ru": "другой",
+    "example": "This is different.",
+    "example_ru": "Это другое."
+  },
+  {
+    "en": "a lot",
+    "ru": "много",
+    "example": "I travel a lot.",
+    "example_ru": "Я много путешествую."
+  },
+  {
+    "en": "and",
+    "ru": "и",
+    "example": "You and me.",
+    "example_ru": "Ты и я."
+  },
+  {
+    "en": "to",
+    "ru": "к",
+    "example": "Go to bed.",
+    "example_ru": "Иди спать."
+  },
+  {
+    "en": "in",
+    "ru": "в",
+    "example": "Stay in line.",
+    "example_ru": "Стой в очереди."
+  },
+  {
+    "en": "that",
+    "ru": "что",
+    "example": "I know that.",
+    "example_ru": "Я знаю это."
+  },
+  {
+    "en": "was",
+    "ru": "был",
+    "example": "He was tired.",
+    "example_ru": "Он был уставшим."
+  },
+  {
+    "en": "for",
+    "ru": "для",
+    "example": "This gift is for you.",
+    "example_ru": "Этот подарок для тебя."
+  },
+  {
+    "en": "on",
+    "ru": "на",
+    "example": "The book is on the table.",
+    "example_ru": "Книга на столе."
+  },
+  {
+    "en": "are",
+    "ru": "являются",
+    "example": "Cats are quiet.",
+    "example_ru": "Кошки тихие."
+  },
+  {
+    "en": "as",
+    "ru": "как",
+    "example": "Work as a team.",
+    "example_ru": "Работайте как команда."
+  },
+  {
+    "en": "with",
+    "ru": "с",
+    "example": "Come with me.",
+    "example_ru": "Пойдём со мной."
+  },
+  {
+    "en": "at",
+    "ru": "в",
+    "example": "Meet me at noon.",
+    "example_ru": "Встретимся в полдень."
+  },
+  {
+    "en": "be",
+    "ru": "быть",
+    "example": "Be yourself.",
+    "example_ru": "Будь собой."
+  },
+  {
+    "en": "have",
+    "ru": "иметь",
+    "example": "I have time.",
+    "example_ru": "У меня есть время."
+  },
+  {
+    "en": "from",
+    "ru": "от",
+    "example": "Letter from Mom.",
+    "example_ru": "Письмо от мамы."
+  },
+  {
+    "en": "or",
+    "ru": "или",
+    "example": "Coffee or tea?",
+    "example_ru": "Кофе или чай?"
+  },
+  {
+    "en": "had",
+    "ru": "имел",
+    "example": "She had a plan.",
+    "example_ru": "У неё был план."
+  },
+  {
+    "en": "by",
+    "ru": "к",
+    "example": "Made by hand.",
+    "example_ru": "Сделано вручную."
+  },
+  {
+    "en": "word",
+    "ru": "слово",
+    "example": "Spell the word.",
+    "example_ru": "Произнеси слово."
+  },
+  {
+    "en": "but",
+    "ru": "но",
+    "example": "Small but strong.",
+    "example_ru": "Маленький, но сильный."
+  },
+  {
+    "en": "not",
+    "ru": "нет",
+    "example": "Do not worry.",
+    "example_ru": "Не волнуйся."
+  },
+  {
+    "en": "what",
+    "ru": "что",
+    "example": "What is this?",
+    "example_ru": "Что это?"
+  },
+  {
+    "en": "were",
+    "ru": "были",
+    "example": "They were here.",
+    "example_ru": "Они были здесь."
+  },
+  {
+    "en": "when",
+    "ru": "когда",
+    "example": "When is lunch?",
+    "example_ru": "Когда обед?"
+  },
+  {
+    "en": "can",
+    "ru": "может",
+    "example": "He can run.",
+    "example_ru": "Он может бежать."
+  },
+  {
+    "en": "said",
+    "ru": "сказал",
+    "example": "She said yes.",
+    "example_ru": "Она сказала «да»."
+  },
+  {
+    "en": "there",
+    "ru": "там",
+    "example": "The key is there.",
+    "example_ru": "Ключ там."
+  },
+  {
+    "en": "use",
+    "ru": "использовать",
+    "example": "Use this tool.",
+    "example_ru": "Используй этот инструмент."
+  },
+  {
+    "en": "zero",
+    "ru": "нуль",
+    "example": "Temperature is zero.",
+    "example_ru": "Температура ноль."
+  },
+  {
+    "en": "each",
+    "ru": "каждый",
+    "example": "Each day counts.",
+    "example_ru": "Каждый день важен."
+  },
+  {
+    "en": "which",
+    "ru": "который",
+    "example": "Which one?",
+    "example_ru": "Какой из?"
+  },
+  {
+    "en": "do",
+    "ru": "делать",
+    "example": "Do your best.",
+    "example_ru": "Делай лучшее."
+  },
+  {
+    "en": "how",
+    "ru": "как",
+    "example": "How are you?",
+    "example_ru": "Как дела?"
+  },
+  {
+    "en": "if",
+    "ru": "если",
+    "example": "If it rains…",
+    "example_ru": "Если пойдёт дождь…"
+  },
+  {
+    "en": "will",
+    "ru": "воля",
+    "example": "Will you come?",
+    "example_ru": "Придёшь?"
+  },
+  {
+    "en": "up",
+    "ru": "вверх",
+    "example": "Look up!",
+    "example_ru": "Посмотри вверх!"
+  },
+  {
+    "en": "about",
+    "ru": "о",
+    "example": "Talk about work.",
+    "example_ru": "Говори о работе."
+  },
+  {
+    "en": "out",
+    "ru": "вне",
+    "example": "Go out now.",
+    "example_ru": "Выйди сейчас."
+  },
+  {
+    "en": "many",
+    "ru": "много",
+    "example": "Many people came.",
+    "example_ru": "Пришло много людей."
+  },
+  {
+    "en": "then",
+    "ru": "затем",
+    "example": "Then we left.",
+    "example_ru": "Потом мы ушли."
+  },
+  {
+    "en": "these",
+    "ru": "эти",
+    "example": "Take these keys.",
+    "example_ru": "Возьми эти ключи."
+  },
+  {
+    "en": "so",
+    "ru": "так",
+    "example": "I think so.",
+    "example_ru": "Я так думаю."
+  },
+  {
+    "en": "some",
+    "ru": "некоторый",
+    "example": "Need some help.",
+    "example_ru": "Нужна помощь."
+  },
+  {
+    "en": "would",
+    "ru": "бы",
+    "example": "I would stay.",
+    "example_ru": "Я бы остался."
+  },
+  {
+    "en": "make",
+    "ru": "делать",
+    "example": "Make a wish.",
+    "example_ru": "Загадай желание."
+  },
+  {
+    "en": "like",
+    "ru": "нравиться",
+    "example": "I like it.",
+    "example_ru": "Мне это нравится."
+  },
+  {
+    "en": "into",
+    "ru": "в",
+    "example": "Jump into water.",
+    "example_ru": "Прыгни в воду."
+  },
+  {
+    "en": "time",
+    "ru": "время",
+    "example": "Time flies.",
+    "example_ru": "Время летит."
+  },
+  {
+    "en": "has",
+    "ru": "имеет",
+    "example": "She has ideas.",
+    "example_ru": "У неё есть идеи."
+  },
+  {
+    "en": "look",
+    "ru": "смотреть",
+    "example": "Look ahead.",
+    "example_ru": "Смотри вперёд."
+  },
+  {
+    "en": "more",
+    "ru": "более",
+    "example": "Need more info.",
+    "example_ru": "Нужно больше данных."
+  },
+  {
+    "en": "write",
+    "ru": "писать",
+    "example": "Write it down.",
+    "example_ru": "Запиши это."
+  },
+  {
+    "en": "go",
+    "ru": "идти",
+    "example": "Go home.",
+    "example_ru": "Иди домой."
+  },
+  {
+    "en": "see",
+    "ru": "видеть",
+    "example": "I see you.",
+    "example_ru": "Я вижу тебя."
+  },
+  {
+    "en": "number",
+    "ru": "число",
+    "example": "Pick a number.",
+    "example_ru": "Выбери число."
+  },
+  {
+    "en": "no",
+    "ru": "нет",
+    "example": "No problem.",
+    "example_ru": "Нет проблемы."
+  },
+  {
+    "en": "way",
+    "ru": "способ",
+    "example": "Find a way.",
+    "example_ru": "Найди способ."
+  },
+  {
+    "en": "could",
+    "ru": "мог",
+    "example": "I could help.",
+    "example_ru": "Я мог бы помочь."
+  },
+  {
+    "en": "people",
+    "ru": "люди",
+    "example": "People laughed.",
+    "example_ru": "Люди смеялись."
+  },
+  {
+    "en": "than",
+    "ru": "чем",
+    "example": "Faster than me.",
+    "example_ru": "Быстрее меня."
+  },
+  {
+    "en": "water",
+    "ru": "вода",
+    "example": "Drink water.",
+    "example_ru": "Пей воду."
+  },
+  {
+    "en": "been",
+    "ru": "был",
+    "example": "I’ve been there.",
+    "example_ru": "Я там был."
+  },
+  {
+    "en": "call",
+    "ru": "вызов",
+    "example": "Call me later.",
+    "example_ru": "Позвони мне позже."
+  },
+  {
+    "en": "who",
+    "ru": "кто",
+    "example": "Who is he?",
+    "example_ru": "Кто он?"
+  },
+  {
+    "en": "oil",
+    "ru": "масло",
+    "example": "Add some oil.",
+    "example_ru": "Добавь масло."
+  },
+  {
+    "en": "now",
+    "ru": "сейчас",
+    "example": "Start now.",
+    "example_ru": "Начни сейчас."
+  },
+  {
+    "en": "find",
+    "ru": "находить",
+    "example": "Find the key.",
+    "example_ru": "Найди ключ."
+  },
+  {
+    "en": "long",
+    "ru": "длинный",
+    "example": "A long road.",
+    "example_ru": "Длинная дорога."
+  },
+  {
+    "en": "down",
+    "ru": "вниз",
+    "example": "Sit down.",
+    "example_ru": "Сядь."
+  },
+  {
+    "en": "day",
+    "ru": "день",
+    "example": "Good day!",
+    "example_ru": "Хорошего дня!"
+  },
+  {
+    "en": "did",
+    "ru": "делал",
+    "example": "What did you do?",
+    "example_ru": "Что ты сделал?"
+  },
+  {
+    "en": "get",
+    "ru": "получать",
+    "example": "Get a ticket.",
+    "example_ru": "Получи билет."
+  },
+  {
+    "en": "come",
+    "ru": "приходить",
+    "example": "Come here.",
+    "example_ru": "Иди сюда."
+  },
+  {
+    "en": "made",
+    "ru": "сделал",
+    "example": "She made coffee.",
+    "example_ru": "Она сделала кофе."
+  },
+  {
+    "en": "may",
+    "ru": "может",
+    "example": "May I help?",
+    "example_ru": "Могу я помочь?"
+  },
+  {
+    "en": "part",
+    "ru": "часть",
+    "example": "My part is small.",
+    "example_ru": "Моя часть мала."
+  },
+  {
+    "en": "over",
+    "ru": "над",
+    "example": "Clouds over us.",
+    "example_ru": "Облака над нами."
+  },
+  {
+    "en": "say",
+    "ru": "сказать",
+    "example": "Say hello.",
+    "example_ru": "Скажи привет."
+  },
+  {
+    "en": "set",
+    "ru": "набор",
+    "example": "Set the alarm.",
+    "example_ru": "Поставь будильник."
+  },
+  {
+    "en": "new",
+    "ru": "новый",
+    "example": "New idea came.",
+    "example_ru": "Пришла новая идея."
+  },
+  {
+    "en": "great",
+    "ru": "большой",
+    "example": "Great job!",
+    "example_ru": "Отличная работа!"
+  },
+  {
+    "en": "put",
+    "ru": "помещать",
+    "example": "Put it away.",
+    "example_ru": "Убери это."
+  },
+  {
+    "en": "sound",
+    "ru": "звук",
+    "example": "Hear that sound.",
+    "example_ru": "Слышишь звук?"
+  },
+  {
+    "en": "where",
+    "ru": "где",
+    "example": "Where are we?",
+    "example_ru": "Где мы?"
+  },
+  {
+    "en": "end",
+    "ru": "конец",
+    "example": "The end.",
+    "example_ru": "Конец."
+  },
+  {
+    "en": "take",
+    "ru": "брать",
+    "example": "Take a break.",
+    "example_ru": "Сделай паузу."
+  },
+  {
+    "en": "help",
+    "ru": "помощь",
+    "example": "Need help?",
+    "example_ru": "Нужна помощь?"
+  },
+  {
+    "en": "does",
+    "ru": "делает",
+    "example": "What does it mean?",
+    "example_ru": "Что это значит?"
+  },
+  {
+    "en": "only",
+    "ru": "только",
+    "example": "Only you.",
+    "example_ru": "Только ты."
+  },
+  {
+    "en": "through",
+    "ru": "через",
+    "example": "Walk through door.",
+    "example_ru": "Пройди через дверь."
+  },
+  {
+    "en": "little",
+    "ru": "маленький",
+    "example": "A little cat.",
+    "example_ru": "Маленький котёнок."
+  },
+  {
+    "en": "much",
+    "ru": "много",
+    "example": "Much better!",
+    "example_ru": "Гораздо лучше!"
+  },
+  {
+    "en": "well",
+    "ru": "хорошо",
+    "example": "Sleep well.",
+    "example_ru": "Спи хорошо."
+  },
+  {
+    "en": "work",
+    "ru": "работа",
+    "example": "Work hard.",
+    "example_ru": "Работай усердно."
+  },
+  {
+    "en": "before",
+    "ru": "до",
+    "example": "Call before 5.",
+    "example_ru": "Позвони до пяти."
+  },
+  {
+    "en": "large",
+    "ru": "большой",
+    "example": "A large bag.",
+    "example_ru": "Большая сумка."
+  },
+  {
+    "en": "know",
+    "ru": "знать",
+    "example": "I know him.",
+    "example_ru": "Я его знаю."
+  },
+  {
+    "en": "line",
+    "ru": "линия",
+    "example": "Draw a line.",
+    "example_ru": "Нарисуй линию."
+  },
+  {
+    "en": "must",
+    "ru": "должен",
+    "example": "You must go.",
+    "example_ru": "Ты должен идти."
+  },
+  {
+    "en": "place",
+    "ru": "место",
+    "example": "Nice place.",
+    "example_ru": "Хорошее место."
+  },
+  {
+    "en": "right",
+    "ru": "верно",
+    "example": "You are right.",
+    "example_ru": "Ты прав."
+  },
+  {
+    "en": "big",
+    "ru": "большой",
+    "example": "Big house.",
+    "example_ru": "Большой дом."
+  },
+  {
+    "en": "year",
+    "ru": "год",
+    "example": "Next year.",
+    "example_ru": "В следующем году."
+  },
+  {
+    "en": "too",
+    "ru": "слишком",
+    "example": "Too late.",
+    "example_ru": "Слишком поздно."
+  },
+  {
+    "en": "even",
+    "ru": "даже",
+    "example": "Even now.",
+    "example_ru": "Даже сейчас."
+  },
+  {
+    "en": "live",
+    "ru": "жить",
+    "example": "Live well.",
+    "example_ru": "Живи хорошо."
+  },
+  {
+    "en": "mean",
+    "ru": "значить",
+    "example": "Words mean much.",
+    "example_ru": "Слова многое значат."
+  },
+  {
+    "en": "such",
+    "ru": "такой",
+    "example": "Such luck!",
+    "example_ru": "Такая удача!"
+  },
+  {
+    "en": "old",
+    "ru": "старый",
+    "example": "Old friend.",
+    "example_ru": "Старый друг."
+  },
+  {
+    "en": "because",
+    "ru": "потому что",
+    "example": "Smile because life is good.",
+    "example_ru": "Улыбайся, потому что жизнь хороша."
+  },
+  {
+    "en": "back",
+    "ru": "назад",
+    "example": "Go back.",
+    "example_ru": "Вернись."
+  },
+  {
+    "en": "any",
+    "ru": "любой",
+    "example": "Any time.",
+    "example_ru": "В любое время."
+  },
+  {
+    "en": "turn",
+    "ru": "повернуть",
+    "example": "Turn left.",
+    "example_ru": "Поверни налево."
+  },
+  {
+    "en": "give",
+    "ru": "давать",
+    "example": "Give me five.",
+    "example_ru": "Дай пять."
+  },
+  {
+    "en": "here",
+    "ru": "здесь",
+    "example": "Stay here.",
+    "example_ru": "Оставайся здесь."
+  },
+  {
+    "en": "most",
+    "ru": "большинство",
+    "example": "Most agree.",
+    "example_ru": "Большинство согласны."
+  },
+  {
+    "en": "and",
+    "ru": "и",
+    "example": "I like tea and coffee.",
+    "example_ru": "Я люблю чай и кофе."
+  },
+  {
+    "en": "to",
+    "ru": "к",
+    "example": "Give it to me.",
+    "example_ru": "Дай это мне."
+  },
+  {
+    "en": "in",
+    "ru": "в",
+    "example": "She is in the car.",
+    "example_ru": "Она в машине."
+  },
+  {
+    "en": "is",
+    "ru": "является",
+    "example": "This is easy.",
+    "example_ru": "Это легко."
+  },
+  {
+    "en": "that",
+    "ru": "что",
+    "example": "I know that fact.",
+    "example_ru": "Я знаю этот факт."
+  },
+  {
+    "en": "was",
+    "ru": "был",
+    "example": "He was late.",
+    "example_ru": "Он опоздал."
+  },
+  {
+    "en": "for",
+    "ru": "для",
+    "example": "This gift is for you.",
+    "example_ru": "Этот подарок для тебя."
+  },
+  {
+    "en": "on",
+    "ru": "на",
+    "example": "The book is on the table.",
+    "example_ru": "Книга на столе."
+  },
+  {
+    "en": "are",
+    "ru": "являются",
+    "example": "They are doctors.",
+    "example_ru": "Они врачи."
+  },
+  {
+    "en": "as",
+    "ru": "как",
+    "example": "Work as a team.",
+    "example_ru": "Работайте как команда."
+  },
+  {
+    "en": "with",
+    "ru": "с",
+    "example": "Come with us.",
+    "example_ru": "Пойдём с нами."
+  },
+  {
+    "en": "at",
+    "ru": "в",
+    "example": "Meet me at nine.",
+    "example_ru": "Встреться со мной в девять."
+  },
+  {
+    "en": "be",
+    "ru": "быть",
+    "example": "I want to be happy.",
+    "example_ru": "Я хочу быть счастливым."
+  },
+  {
+    "en": "have",
+    "ru": "иметь",
+    "example": "They have a car.",
+    "example_ru": "У них есть машина."
+  },
+  {
+    "en": "from",
+    "ru": "от",
+    "example": "She comes from Spain.",
+    "example_ru": "Она из Испании."
+  },
+  {
+    "en": "or",
+    "ru": "или",
+    "example": "Tea or coffee?",
+    "example_ru": "Чай или кофе?"
+  },
+  {
+    "en": "had",
+    "ru": "имел",
+    "example": "I had a dream.",
+    "example_ru": "У меня был сон."
+  },
+  {
+    "en": "by",
+    "ru": "к",
+    "example": "Stand by me.",
+    "example_ru": "Постой рядом со мной."
+  },
+  {
+    "en": "word",
+    "ru": "слово",
+    "example": "Learn one new word.",
+    "example_ru": "Выучи одно новое слово."
+  },
+  {
+    "en": "but",
+    "ru": "но",
+    "example": "Small but nice.",
+    "example_ru": "Маленький, но милый."
+  },
+  {
+    "en": "not",
+    "ru": "нет",
+    "example": "Do not worry.",
+    "example_ru": "Не волнуйся."
+  },
+  {
+    "en": "what",
+    "ru": "что",
+    "example": "What is this?",
+    "example_ru": "Что это?"
+  },
+  {
+    "en": "were",
+    "ru": "были",
+    "example": "We were busy.",
+    "example_ru": "Мы были заняты."
+  },
+  {
+    "en": "when",
+    "ru": "когда",
+    "example": "Call me when ready.",
+    "example_ru": "Позвони, когда будешь готов."
+  },
+  {
+    "en": "can",
+    "ru": "может",
+    "example": "She can swim.",
+    "example_ru": "Она умеет плавать."
+  },
+  {
+    "en": "said",
+    "ru": "сказал",
+    "example": "He said hello.",
+    "example_ru": "Он сказал «привет»."
+  },
+  {
+    "en": "there",
+    "ru": "там",
+    "example": "The keys are there.",
+    "example_ru": "Ключи там."
+  },
+  {
+    "en": "use",
+    "ru": "использовать",
+    "example": "Use this pen.",
+    "example_ru": "Используй эту ручку."
+  },
+  {
+    "en": "each",
+    "ru": "каждый",
+    "example": "Each day counts.",
+    "example_ru": "Каждый день важен."
+  },
+  {
+    "en": "which",
+    "ru": "который",
+    "example": "Which way now?",
+    "example_ru": "Куда теперь?"
+  },
+  {
+    "en": "do",
+    "ru": "делать",
+    "example": "I do my work.",
+    "example_ru": "Я делаю свою работу."
+  },
+  {
+    "en": "how",
+    "ru": "как",
+    "example": "How are you?",
+    "example_ru": "Как дела?"
+  },
+  {
+    "en": "will",
+    "ru": "воля",
+    "example": "Time will tell.",
+    "example_ru": "Время покажет."
+  },
+  {
+    "en": "up",
+    "ru": "вверх",
+    "example": "Look up there.",
+    "example_ru": "Посмотри наверх."
+  },
+  {
+    "en": "about",
+    "ru": "о",
+    "example": "Tell me about it.",
+    "example_ru": "Расскажи об этом."
+  },
+  {
+    "en": "out",
+    "ru": "вне",
+    "example": "Go out now.",
+    "example_ru": "Выйди сейчас."
+  },
+  {
+    "en": "many",
+    "ru": "много",
+    "example": "Many came today.",
+    "example_ru": "Многие пришли сегодня."
+  },
+  {
+    "en": "then",
+    "ru": "затем",
+    "example": "Then we left.",
+    "example_ru": "Потом мы ушли."
+  },
+  {
+    "en": "these",
+    "ru": "эти",
+    "example": "Take these apples.",
+    "example_ru": "Возьми эти яблоки."
+  },
+  {
+    "en": "so",
+    "ru": "так",
+    "example": "I think so.",
+    "example_ru": "Я так думаю."
+  },
+  {
+    "en": "some",
+    "ru": "некоторый",
+    "example": "Have some tea.",
+    "example_ru": "Выпей немного чая."
+  },
+  {
+    "en": "would",
+    "ru": "бы",
+    "example": "I would help.",
+    "example_ru": "Я бы помог."
+  },
+  {
+    "en": "make",
+    "ru": "делать",
+    "example": "Make a cake.",
+    "example_ru": "Испеки торт."
+  },
+  {
+    "en": "like",
+    "ru": "нравиться",
+    "example": "I like music.",
+    "example_ru": "Мне нравится музыка."
+  },
+  {
+    "en": "into",
+    "ru": "в",
+    "example": "Jump into the pool.",
+    "example_ru": "Прыгни в бассейн."
+  },
+  {
+    "en": "has",
+    "ru": "имеет",
+    "example": "She has a cat.",
+    "example_ru": "У неё есть кот."
+  },
+  {
+    "en": "look",
+    "ru": "смотреть",
+    "example": "Look at me.",
+    "example_ru": "Посмотри на меня."
+  },
+  {
+    "en": "more",
+    "ru": "более",
+    "example": "We need more.",
+    "example_ru": "Нам нужно больше."
+  },
+  {
+    "en": "write",
+    "ru": "писать",
+    "example": "Write your name.",
+    "example_ru": "Напиши своё имя."
+  },
+  {
+    "en": "go",
+    "ru": "идти",
+    "example": "Let's go home.",
+    "example_ru": "Пойдём домой."
+  },
+  {
+    "en": "see",
+    "ru": "видеть",
+    "example": "I see you.",
+    "example_ru": "Я вижу тебя."
+  },
+  {
+    "en": "number",
+    "ru": "число",
+    "example": "Pick a number.",
+    "example_ru": "Выбери число."
+  },
+  {
+    "en": "no",
+    "ru": "нет",
+    "example": "No, thank you.",
+    "example_ru": "Нет, спасибо."
+  },
+  {
+    "en": "way",
+    "ru": "способ",
+    "example": "Find a way.",
+    "example_ru": "Найди способ."
+  },
+  {
+    "en": "could",
+    "ru": "мог",
+    "example": "He could run.",
+    "example_ru": "Он мог бегать."
+  },
+  {
+    "en": "people",
+    "ru": "люди",
+    "example": "People like stories.",
+    "example_ru": "Люди любят истории."
+  },
+  {
+    "en": "than",
+    "ru": "чем",
+    "example": "Better than ever.",
+    "example_ru": "Лучше, чем когда‑либо."
+  },
+  {
+    "en": "water",
+    "ru": "вода",
+    "example": "Drink water daily.",
+    "example_ru": "Пей воду каждый день."
+  },
+  {
+    "en": "been",
+    "ru": "был",
+    "example": "I've been there.",
+    "example_ru": "Я там был."
+  },
+  {
+    "en": "call",
+    "ru": "вызов",
+    "example": "Call me tonight.",
+    "example_ru": "Позвони мне вечером."
+  },
+  {
+    "en": "who",
+    "ru": "кто",
+    "example": "Who is she?",
+    "example_ru": "Кто она?"
+  },
+  {
+    "en": "oil",
+    "ru": "масло",
+    "example": "Add oil now.",
+    "example_ru": "Добавь масло сейчас."
+  },
+  {
+    "en": "now",
+    "ru": "сейчас",
+    "example": "Do it now.",
+    "example_ru": "Сделай это сейчас."
+  },
+  {
+    "en": "find",
+    "ru": "находить",
+    "example": "Find your keys.",
+    "example_ru": "Найди свои ключи."
+  },
+  {
+    "en": "long",
+    "ru": "длинный",
+    "example": "A long road.",
+    "example_ru": "Длинная дорога."
+  },
+  {
+    "en": "down",
+    "ru": "вниз",
+    "example": "Sit down here.",
+    "example_ru": "Сядь здесь."
+  },
+  {
+    "en": "day",
+    "ru": "день",
+    "example": "It's a good day.",
+    "example_ru": "Хороший день."
+  },
+  {
+    "en": "did",
+    "ru": "делал",
+    "example": "What did you do?",
+    "example_ru": "Что ты сделал?"
+  },
+  {
+    "en": "get",
+    "ru": "получать",
+    "example": "Get some rest.",
+    "example_ru": "Отдохни немного."
+  },
+  {
+    "en": "come",
+    "ru": "приходить",
+    "example": "Come home soon.",
+    "example_ru": "Приходи домой скоро."
+  },
+  {
+    "en": "made",
+    "ru": "сделал",
+    "example": "She made tea.",
+    "example_ru": "Она сделала чай."
+  },
+  {
+    "en": "may",
+    "ru": "может",
+    "example": "May I go?",
+    "example_ru": "Можно мне идти?"
+  },
+  {
+    "en": "part",
+    "ru": "часть",
+    "example": "Take part.",
+    "example_ru": "Прими участие."
+  },
+  {
+    "en": "over",
+    "ru": "над",
+    "example": "Fly over us.",
+    "example_ru": "Пролетай над нами."
+  },
+  {
+    "en": "say",
+    "ru": "сказать",
+    "example": "Say something.",
+    "example_ru": "Скажи что‑нибудь."
+  },
+  {
+    "en": "set",
+    "ru": "набор",
+    "example": "Set the table.",
+    "example_ru": "Накрой на стол."
+  },
+  {
+    "en": "new",
+    "ru": "новый",
+    "example": "A new phone.",
+    "example_ru": "Новый телефон."
+  },
+  {
+    "en": "great",
+    "ru": "большой",
+    "example": "Great job!",
+    "example_ru": "Отличная работа!"
+  },
+  {
+    "en": "put",
+    "ru": "помещать",
+    "example": "Put it here.",
+    "example_ru": "Положи это сюда."
+  },
+  {
+    "en": "sound",
+    "ru": "звук",
+    "example": "Hear that sound.",
+    "example_ru": "Слышишь тот звук?"
+  },
+  {
+    "en": "where",
+    "ru": "где",
+    "example": "Where are you?",
+    "example_ru": "Где ты?"
+  },
+  {
+    "en": "end",
+    "ru": "конец",
+    "example": "The end is near.",
+    "example_ru": "Конец близок."
+  },
+  {
+    "en": "take",
+    "ru": "брать",
+    "example": "Take my hand.",
+    "example_ru": "Возьми мою руку."
+  },
+  {
+    "en": "help",
+    "ru": "помощь",
+    "example": "Need help?",
+    "example_ru": "Нужна помощь?"
+  },
+  {
+    "en": "does",
+    "ru": "делает",
+    "example": "What does it do?",
+    "example_ru": "Что это делает?"
+  },
+  {
+    "en": "only",
+    "ru": "только",
+    "example": "Only one left.",
+    "example_ru": "Остался только один."
+  },
+  {
+    "en": "through",
+    "ru": "через",
+    "example": "Walk through door.",
+    "example_ru": "Иди через дверь."
+  },
+  {
+    "en": "little",
+    "ru": "маленький",
+    "example": "A little bird.",
+    "example_ru": "Маленькая птица."
+  },
+  {
+    "en": "much",
+    "ru": "много",
+    "example": "Much to learn.",
+    "example_ru": "Много учиться."
+  },
+  {
+    "en": "well",
+    "ru": "хорошо",
+    "example": "Sleep well.",
+    "example_ru": "Спи хорошо."
+  },
+  {
+    "en": "work",
+    "ru": "работа",
+    "example": "Work starts now.",
+    "example_ru": "Работа начинается сейчас."
+  },
+  {
+    "en": "before",
+    "ru": "до",
+    "example": "Finish before six.",
+    "example_ru": "Закончите до шести."
+  },
+  {
+    "en": "and",
+    "ru": "и",
+    "example": "I like tea and coffee.",
+    "example_ru": "Я люблю чай и кофе."
+  },
+  {
+    "en": "to",
+    "ru": "к",
+    "example": "Give it to me.",
+    "example_ru": "Дай это мне."
+  },
+  {
+    "en": "in",
+    "ru": "в",
+    "example": "She is in the car.",
+    "example_ru": "Она в машине."
+  },
+  {
+    "en": "is",
+    "ru": "является",
+    "example": "This is easy.",
+    "example_ru": "Это легко."
+  },
+  {
+    "en": "that",
+    "ru": "что",
+    "example": "I know that fact.",
+    "example_ru": "Я знаю этот факт."
+  },
+  {
+    "en": "was",
+    "ru": "был",
+    "example": "He was late.",
+    "example_ru": "Он опоздал."
+  },
+  {
+    "en": "for",
+    "ru": "для",
+    "example": "This gift is for you.",
+    "example_ru": "Этот подарок для тебя."
+  },
+  {
+    "en": "on",
+    "ru": "на",
+    "example": "The book is on the table.",
+    "example_ru": "Книга на столе."
+  },
+  {
+    "en": "are",
+    "ru": "являются",
+    "example": "They are doctors.",
+    "example_ru": "Они врачи."
+  },
+  {
+    "en": "as",
+    "ru": "как",
+    "example": "Work as a team.",
+    "example_ru": "Работайте как команда."
+  },
+  {
+    "en": "with",
+    "ru": "с",
+    "example": "Come with us.",
+    "example_ru": "Пойдём с нами."
+  },
+  {
+    "en": "at",
+    "ru": "в",
+    "example": "Meet me at nine.",
+    "example_ru": "Встреться со мной в девять."
+  },
+  {
+    "en": "be",
+    "ru": "быть",
+    "example": "I want to be happy.",
+    "example_ru": "Я хочу быть счастливым."
+  },
+  {
+    "en": "have",
+    "ru": "иметь",
+    "example": "They have a car.",
+    "example_ru": "У них есть машина."
+  },
+  {
+    "en": "from",
+    "ru": "от",
+    "example": "She comes from Spain.",
+    "example_ru": "Она из Испании."
+  },
+  {
+    "en": "or",
+    "ru": "или",
+    "example": "Tea or coffee?",
+    "example_ru": "Чай или кофе?"
+  },
+  {
+    "en": "had",
+    "ru": "имел",
+    "example": "I had a dream.",
+    "example_ru": "У меня был сон."
+  },
+  {
+    "en": "by",
+    "ru": "к",
+    "example": "Stand by me.",
+    "example_ru": "Постой рядом со мной."
+  },
+  {
+    "en": "word",
+    "ru": "слово",
+    "example": "Learn one new word.",
+    "example_ru": "Выучи одно новое слово."
+  },
+  {
+    "en": "but",
+    "ru": "но",
+    "example": "Small but nice.",
+    "example_ru": "Маленький, но милый."
+  },
+  {
+    "en": "not",
+    "ru": "нет",
+    "example": "Do not worry.",
+    "example_ru": "Не волнуйся."
+  },
+  {
+    "en": "what",
+    "ru": "что",
+    "example": "What is this?",
+    "example_ru": "Что это?"
+  },
+  {
+    "en": "were",
+    "ru": "были",
+    "example": "We were busy.",
+    "example_ru": "Мы были заняты."
+  },
+  {
+    "en": "when",
+    "ru": "когда",
+    "example": "Call me when ready.",
+    "example_ru": "Позвони, когда будешь готов."
+  },
+  {
+    "en": "can",
+    "ru": "может",
+    "example": "She can swim.",
+    "example_ru": "Она умеет плавать."
+  },
+  {
+    "en": "said",
+    "ru": "сказал",
+    "example": "He said hello.",
+    "example_ru": "Он сказал «привет»."
+  },
+  {
+    "en": "there",
+    "ru": "там",
+    "example": "The keys are there.",
+    "example_ru": "Ключи там."
+  },
+  {
+    "en": "use",
+    "ru": "использовать",
+    "example": "Use this pen.",
+    "example_ru": "Используй эту ручку."
+  },
+  {
+    "en": "each",
+    "ru": "каждый",
+    "example": "Each day counts.",
+    "example_ru": "Каждый день важен."
+  },
+  {
+    "en": "which",
+    "ru": "который",
+    "example": "Which way now?",
+    "example_ru": "Куда теперь?"
+  },
+  {
+    "en": "do",
+    "ru": "делать",
+    "example": "I do my work.",
+    "example_ru": "Я делаю свою работу."
+  },
+  {
+    "en": "how",
+    "ru": "как",
+    "example": "How are you?",
+    "example_ru": "Как дела?"
+  },
+  {
+    "en": "will",
+    "ru": "воля",
+    "example": "Time will tell.",
+    "example_ru": "Время покажет."
+  },
+  {
+    "en": "up",
+    "ru": "вверх",
+    "example": "Look up there.",
+    "example_ru": "Посмотри наверх."
+  },
+  {
+    "en": "about",
+    "ru": "о",
+    "example": "Tell me about it.",
+    "example_ru": "Расскажи об этом."
+  },
+  {
+    "en": "out",
+    "ru": "вне",
+    "example": "Go out now.",
+    "example_ru": "Выйди сейчас."
+  },
+  {
+    "en": "many",
+    "ru": "много",
+    "example": "Many came today.",
+    "example_ru": "Многие пришли сегодня."
+  },
+  {
+    "en": "then",
+    "ru": "затем",
+    "example": "Then we left.",
+    "example_ru": "Потом мы ушли."
+  },
+  {
+    "en": "these",
+    "ru": "эти",
+    "example": "Take these apples.",
+    "example_ru": "Возьми эти яблоки."
+  },
+  {
+    "en": "so",
+    "ru": "так",
+    "example": "I think so.",
+    "example_ru": "Я так думаю."
+  },
+  {
+    "en": "some",
+    "ru": "некоторый",
+    "example": "Have some tea.",
+    "example_ru": "Выпей немного чаю."
+  },
+  {
+    "en": "would",
+    "ru": "бы",
+    "example": "I would help.",
+    "example_ru": "Я бы помог."
+  },
+  {
+    "en": "make",
+    "ru": "делать",
+    "example": "Make a cake.",
+    "example_ru": "Испеки торт."
+  },
+  {
+    "en": "like",
+    "ru": "нравиться",
+    "example": "I like music.",
+    "example_ru": "Мне нравится музыка."
+  },
+  {
+    "en": "into",
+    "ru": "в",
+    "example": "Jump into the pool.",
+    "example_ru": "Прыгни в бассейн."
+  },
+  {
+    "en": "has",
+    "ru": "имеет",
+    "example": "She has a cat.",
+    "example_ru": "У неё есть кот."
+  },
+  {
+    "en": "look",
+    "ru": "смотреть",
+    "example": "Look at me.",
+    "example_ru": "Посмотри на меня."
+  },
+  {
+    "en": "more",
+    "ru": "более",
+    "example": "We need more.",
+    "example_ru": "Нам нужно больше."
+  },
+  {
+    "en": "write",
+    "ru": "писать",
+    "example": "Write your name.",
+    "example_ru": "Напиши своё имя."
+  },
+  {
+    "en": "go",
+    "ru": "идти",
+    "example": "Let's go home.",
+    "example_ru": "Пойдём домой."
+  },
+  {
+    "en": "see",
+    "ru": "видеть",
+    "example": "I see you.",
+    "example_ru": "Я вижу тебя."
+  },
+  {
+    "en": "number",
+    "ru": "число",
+    "example": "Pick a number.",
+    "example_ru": "Выбери число."
+  },
+  {
+    "en": "no",
+    "ru": "нет",
+    "example": "No, thank you.",
+    "example_ru": "Нет, спасибо."
+  },
+  {
+    "en": "way",
+    "ru": "способ",
+    "example": "Find a way.",
+    "example_ru": "Найди способ."
+  },
+  {
+    "en": "could",
+    "ru": "мог",
+    "example": "He could run.",
+    "example_ru": "Он мог бегать."
+  },
+  {
+    "en": "people",
+    "ru": "люди",
+    "example": "People like stories.",
+    "example_ru": "Люди любят истории."
+  },
+  {
+    "en": "than",
+    "ru": "чем",
+    "example": "Better than ever.",
+    "example_ru": "Лучше, чем когда‑либо."
+  },
+  {
+    "en": "water",
+    "ru": "вода",
+    "example": "Drink water daily.",
+    "example_ru": "Пей воду каждый день."
+  },
+  {
+    "en": "been",
+    "ru": "был",
+    "example": "I've been there.",
+    "example_ru": "Я там был."
+  },
+  {
+    "en": "call",
+    "ru": "вызов",
+    "example": "Call me tonight.",
+    "example_ru": "Позвони мне вечером."
+  },
+  {
+    "en": "find",
+    "ru": "находить",
+    "example": "Find the key.",
+    "example_ru": "Найди ключ."
+  },
+  {
+    "en": "long",
+    "ru": "длинный",
+    "example": "A long road.",
+    "example_ru": "Долгая дорога."
+  },
+  {
+    "en": "down",
+    "ru": "вниз",
+    "example": "Sit down.",
+    "example_ru": "Сядь."
+  },
+  {
+    "en": "day",
+    "ru": "день",
+    "example": "Good day!",
+    "example_ru": "Добрый день!"
+  },
+  {
+    "en": "did",
+    "ru": "делал",
+    "example": "What did you say?",
+    "example_ru": "Что ты сказал?"
+  },
+  {
+    "en": "get",
+    "ru": "получать",
+    "example": "Get some rest.",
+    "example_ru": "Отдохни немного."
+  },
+  {
+    "en": "come",
+    "ru": "приходить",
+    "example": "Come here.",
+    "example_ru": "Подойди сюда."
+  },
+  {
+    "en": "made",
+    "ru": "сделал",
+    "example": "She made dinner.",
+    "example_ru": "Она приготовила ужин."
+  },
+  {
+    "en": "may",
+    "ru": "может",
+    "example": "May I sit?",
+    "example_ru": "Можно сесть?"
+  },
+  {
+    "en": "part",
+    "ru": "часть",
+    "example": "A big part.",
+    "example_ru": "Большая часть."
+  },
+  {
+    "en": "over",
+    "ru": "над",
+    "example": "Clouds over us.",
+    "example_ru": "Облака над нами."
+  },
+  {
+    "en": "say",
+    "ru": "сказать",
+    "example": "Say hello!",
+    "example_ru": "Скажи «привет»!"
+  },
+  {
+    "en": "set",
+    "ru": "набор",
+    "example": "A set of tools.",
+    "example_ru": "Набор инструментов."
+  },
+  {
+    "en": "new",
+    "ru": "новый",
+    "example": "A new idea.",
+    "example_ru": "Новая идея."
+  },
+  {
+    "en": "great",
+    "ru": "большой",
+    "example": "A great job!",
+    "example_ru": "Отличная работа!"
+  },
+  {
+    "en": "put",
+    "ru": "помещать",
+    "example": "Put it here.",
+    "example_ru": "Положи это сюда."
+  },
+  {
+    "en": "sound",
+    "ru": "звук",
+    "example": "I heard a sound.",
+    "example_ru": "Я услышал звук."
+  },
+  {
+    "en": "where",
+    "ru": "где",
+    "example": "Where are you?",
+    "example_ru": "Где ты?"
+  },
+  {
+    "en": "end",
+    "ru": "конец",
+    "example": "The end.",
+    "example_ru": "Конец."
+  },
+  {
+    "en": "take",
+    "ru": "брать",
+    "example": "Take a seat.",
+    "example_ru": "Присядь."
+  },
+  {
+    "en": "help",
+    "ru": "помощь",
+    "example": "Need help?",
+    "example_ru": "Нужна помощь?"
+  },
+  {
+    "en": "does",
+    "ru": "делает",
+    "example": "What does he do?",
+    "example_ru": "Чем он занимается?"
+  },
+  {
+    "en": "only",
+    "ru": "только",
+    "example": "Only one left.",
+    "example_ru": "Остался только один."
+  },
+  {
+    "en": "through",
+    "ru": "через",
+    "example": "Walk through here.",
+    "example_ru": "Пройди через здесь."
+  },
+  {
+    "en": "little",
+    "ru": "маленький",
+    "example": "A little cat.",
+    "example_ru": "Маленький котёнок."
+  },
+  {
+    "en": "much",
+    "ru": "много",
+    "example": "Too much work.",
+    "example_ru": "Слишком много работы."
+  },
+  {
+    "en": "well",
+    "ru": "хорошо",
+    "example": "Sleep well.",
+    "example_ru": "Спи хорошо."
+  },
+  {
+    "en": "work",
+    "ru": "работа",
+    "example": "Work hard.",
+    "example_ru": "Работай усердно."
+  },
+  {
+    "en": "before",
+    "ru": "до",
+    "example": "Before dinner.",
+    "example_ru": "Перед ужином."
+  },
+  {
+    "en": "large",
+    "ru": "большой",
+    "example": "A large room.",
+    "example_ru": "Большая комната."
+  },
+  {
+    "en": "know",
+    "ru": "знать",
+    "example": "I know this.",
+    "example_ru": "Я это знаю."
+  },
+  {
+    "en": "line",
+    "ru": "линия",
+    "example": "Draw a line.",
+    "example_ru": "Проведи линию."
+  },
+  {
+    "en": "must",
+    "ru": "должен",
+    "example": "You must go.",
+    "example_ru": "Ты должен идти."
+  },
+  {
+    "en": "place",
+    "ru": "место",
+    "example": "A quiet place.",
+    "example_ru": "Тихое место."
+  },
+  {
+    "en": "right",
+    "ru": "верно",
+    "example": "You're right.",
+    "example_ru": "Ты прав."
+  },
+  {
+    "en": "big",
+    "ru": "большой",
+    "example": "A big tree.",
+    "example_ru": "Большое дерево."
+  },
+  {
+    "en": "year",
+    "ru": "год",
+    "example": "Happy New Year!",
+    "example_ru": "С Новым годом!"
+  },
+  {
+    "en": "too",
+    "ru": "слишком",
+    "example": "Too late.",
+    "example_ru": "Слишком поздно."
+  },
+  {
+    "en": "even",
+    "ru": "даже",
+    "example": "Even he knows.",
+    "example_ru": "Даже он знает."
+  },
+  {
+    "en": "live",
+    "ru": "жить",
+    "example": "Live well.",
+    "example_ru": "Живи хорошо."
+  },
+  {
+    "en": "mean",
+    "ru": "иметь в виду",
+    "example": "What do you mean?",
+    "example_ru": "Что ты имеешь в виду?"
+  },
+  {
+    "en": "such",
+    "ru": "такой",
+    "example": "Such beauty!",
+    "example_ru": "Такая красота!"
+  },
+  {
+    "en": "old",
+    "ru": "старый",
+    "example": "An old house.",
+    "example_ru": "Старый дом."
+  },
+  {
+    "en": "because",
+    "ru": "потому что",
+    "example": "Stay, because I care.",
+    "example_ru": "Останься, потому что я забочусь."
+  },
+  {
+    "en": "back",
+    "ru": "назад",
+    "example": "Go back.",
+    "example_ru": "Иди назад."
+  },
+  {
+    "en": "any",
+    "ru": "любой",
+    "example": "Any questions?",
+    "example_ru": "Есть вопросы?"
+  },
+  {
+    "en": "turn",
+    "ru": "повернуть",
+    "example": "Turn left.",
+    "example_ru": "Поверни налево."
+  },
+  {
+    "en": "give",
+    "ru": "давать",
+    "example": "Give me that.",
+    "example_ru": "Дай мне это."
+  },
+  {
+    "en": "here",
+    "ru": "здесь",
+    "example": "Come here.",
+    "example_ru": "Иди сюда."
+  },
+  {
+    "en": "most",
+    "ru": "большинство",
+    "example": "Most agree.",
+    "example_ru": "Большинство согласны."
+  },
+  {
+    "en": "tell",
+    "ru": "рассказывать",
+    "example": "Tell the truth.",
+    "example_ru": "Расскажи правду."
+  },
+  {
+    "en": "why",
+    "ru": "почему",
+    "example": "Why so sad?",
+    "example_ru": "Почему так грустно?"
+  },
+  {
+    "en": "very",
+    "ru": "очень",
+    "example": "Very good!",
+    "example_ru": "Очень хорошо!"
+  },
+  {
+    "en": "boy",
+    "ru": "мальчик",
+    "example": "The boy runs.",
+    "example_ru": "Мальчик бежит."
+  },
+  {
+    "en": "ask",
+    "ru": "просить",
+    "example": "Ask again.",
+    "example_ru": "Спроси ещё раз."
+  },
+  {
+    "en": "after",
+    "ru": "после",
+    "example": "After work.",
+    "example_ru": "После работы."
+  },
+  {
+    "en": "follow",
+    "ru": "следовать",
+    "example": "Follow me.",
+    "example_ru": "Следуй за мной."
+  },
+  {
+    "en": "went",
+    "ru": "шёл",
+    "example": "He went home.",
+    "example_ru": "Он пошёл домой."
+  },
+  {
+    "en": "thing",
+    "ru": "вещь",
+    "example": "Take your thing.",
+    "example_ru": "Возьми свою вещь."
+  },
+  {
+    "en": "came",
+    "ru": "пришёл",
+    "example": "She came early.",
+    "example_ru": "Она пришла рано."
+  },
+  {
+    "en": "men",
+    "ru": "мужчины",
+    "example": "Men at work.",
+    "example_ru": "Мужчины работают."
+  },
+  {
+    "en": "want",
+    "ru": "хотеть",
+    "example": "I want more.",
+    "example_ru": "Я хочу больше."
+  },
+  {
+    "en": "read",
+    "ru": "читать",
+    "example": "Read this book.",
+    "example_ru": "Прочитай эту книгу."
+  },
+  {
+    "en": "just",
+    "ru": "только",
+    "example": "Just do it.",
+    "example_ru": "Просто сделай это."
+  },
+  {
+    "en": "show",
+    "ru": "показывать",
+    "example": "Show me.",
+    "example_ru": "Покажи мне."
+  },
+  {
+    "en": "need",
+    "ru": "нуждаться",
+    "example": "I need help.",
+    "example_ru": "Мне нужна помощь."
+  },
+  {
+    "en": "name",
+    "ru": "имя",
+    "example": "My name is Tom.",
+    "example_ru": "Меня зовут Том."
+  },
+  {
+    "en": "also",
+    "ru": "также",
+    "example": "She also came.",
+    "example_ru": "Она тоже пришла."
+  },
+  {
+    "en": "land",
+    "ru": "земля",
+    "example": "The land is dry.",
+    "example_ru": "Земля сухая."
+  },
+  {
+    "en": "good",
+    "ru": "хороший",
+    "example": "A good idea.",
+    "example_ru": "Хорошая идея."
+  },
+  {
+    "en": "around",
+    "ru": "вокруг",
+    "example": "Look around you.",
+    "example_ru": "Посмотри вокруг."
+  },
+  {
+    "en": "sentence",
+    "ru": "предложение",
+    "example": "Read the sentence.",
+    "example_ru": "Прочитай предложение."
+  },
+  {
+    "en": "form",
+    "ru": "форма",
+    "example": "Fill this form.",
+    "example_ru": "Заполни эту форму."
+  },
+  {
+    "en": "home",
+    "ru": "дом",
+    "example": "Go home.",
+    "example_ru": "Иди домой."
+  },
+  {
+    "en": "man",
+    "ru": "мужчина",
+    "example": "The man smiled.",
+    "example_ru": "Мужчина улыбнулся."
+  },
+  {
+    "en": "think",
+    "ru": "думать",
+    "example": "Think again.",
+    "example_ru": "Подумай ещё раз."
+  },
+  {
+    "en": "small",
+    "ru": "маленький",
+    "example": "A small cat.",
+    "example_ru": "Маленький кот."
+  },
+  {
+    "en": "move",
+    "ru": "двигаться",
+    "example": "Move slowly.",
+    "example_ru": "Двигайся медленно."
+  },
+  {
+    "en": "try",
+    "ru": "пытаться",
+    "example": "Try your best.",
+    "example_ru": "Старайся изо всех сил."
+  },
+  {
+    "en": "kind",
+    "ru": "добрый",
+    "example": "Be kind.",
+    "example_ru": "Будь добрым."
+  },
+  {
+    "en": "hand",
+    "ru": "рука",
+    "example": "Raise your hand.",
+    "example_ru": "Подними руку."
+  },
+  {
+    "en": "picture",
+    "ru": "картина",
+    "example": "Nice picture!",
+    "example_ru": "Красивая картина!"
+  },
+  {
+    "en": "change",
+    "ru": "изменять",
+    "example": "Change clothes.",
+    "example_ru": "Переоденься."
+  },
+  {
+    "en": "off",
+    "ru": "выключенный",
+    "example": "Turn off lights.",
+    "example_ru": "Выключи свет."
+  },
+  {
+    "en": "play",
+    "ru": "играть",
+    "example": "Play outside.",
+    "example_ru": "Играй на улице."
+  },
+  {
+    "en": "spell",
+    "ru": "заклинание",
+    "example": "Spell your name.",
+    "example_ru": "Произнеси своё имя по буквам."
+  },
+  {
+    "en": "air",
+    "ru": "воздух",
+    "example": "Fresh air helps.",
+    "example_ru": "Свежий воздух помогает."
+  },
+  {
+    "en": "away",
+    "ru": "прочь",
+    "example": "Go away!",
+    "example_ru": "Уходи!"
+  },
+  {
+    "en": "animal",
+    "ru": "животное",
+    "example": "Feed the animal.",
+    "example_ru": "Кормите животное."
+  },
+  {
+    "en": "house",
+    "ru": "дом",
+    "example": "Big house there.",
+    "example_ru": "Там большой дом."
+  },
+  {
+    "en": "point",
+    "ru": "точка",
+    "example": "Good point.",
+    "example_ru": "Верное замечание."
+  },
+  {
+    "en": "page",
+    "ru": "страница",
+    "example": "Turn the page.",
+    "example_ru": "Переверни страницу."
+  },
+  {
+    "en": "letter",
+    "ru": "письмо",
+    "example": "Send a letter.",
+    "example_ru": "Отправь письмо."
+  },
+  {
+    "en": "mother",
+    "ru": "мать",
+    "example": "Mother knows best.",
+    "example_ru": "Мама знает лучше."
+  },
+  {
+    "en": "answer",
+    "ru": "отвечать",
+    "example": "Answer quickly.",
+    "example_ru": "Ответь быстро."
+  },
+  {
+    "en": "found",
+    "ru": "найденный",
+    "example": "I found it.",
+    "example_ru": "Я нашёл это."
+  },
+  {
+    "en": "study",
+    "ru": "изучать",
+    "example": "Study English.",
+    "example_ru": "Изучай английский."
+  },
+  {
+    "en": "still",
+    "ru": "всё ещё",
+    "example": "I’m still here.",
+    "example_ru": "Я всё ещё здесь."
+  },
+  {
+    "en": "learn",
+    "ru": "учиться",
+    "example": "Learn more.",
+    "example_ru": "Учись больше."
+  },
+  {
+    "en": "should",
+    "ru": "должен",
+    "example": "You should go.",
+    "example_ru": "Тебе следует идти."
+  },
+  {
+    "en": "America",
+    "ru": "Америка",
+    "example": "America is big.",
+    "example_ru": "Америка большая."
+  },
+  {
+    "en": "world",
+    "ru": "мир",
+    "example": "World is changing.",
+    "example_ru": "Мир меняется."
+  },
+  {
+    "en": "high",
+    "ru": "высокий",
+    "example": "A high wall.",
+    "example_ru": "Высокая стена."
+  },
+  {
+    "en": "every",
+    "ru": "каждый",
+    "example": "Every day counts.",
+    "example_ru": "Каждый день важен."
+  },
+  {
+    "en": "eleven",
+    "ru": "одиннадцать",
+    "example": "Eleven students came.",
+    "example_ru": "Пришли одиннадцать учеников."
+  },
+  {
+    "en": "twelve",
+    "ru": "двенадцать",
+    "example": "Twelve months pass.",
+    "example_ru": "Проходят двенадцать месяцев."
+  },
+  {
+    "en": "thirteen",
+    "ru": "тринадцать",
+    "example": "He is thirteen.",
+    "example_ru": "Ему тринадцать."
+  },
+  {
+    "en": "fourteen",
+    "ru": "четырнадцать",
+    "example": "She is fourteen.",
+    "example_ru": "Ей четырнадцать."
+  },
+  {
+    "en": "fifteen",
+    "ru": "пятнадцать",
+    "example": "Fifteen apples here.",
+    "example_ru": "Здесь пятнадцать яблок."
+  },
+  {
+    "en": "sixteen",
+    "ru": "шестнадцать",
+    "example": "Sixteen years old.",
+    "example_ru": "Шестнадцать лет."
+  },
+  {
+    "en": "seventeen",
+    "ru": "семнадцать",
+    "example": "He turned seventeen.",
+    "example_ru": "Ему исполнилось семнадцать."
+  },
+  {
+    "en": "eighteen",
+    "ru": "восемнадцать",
+    "example": "Eighteen votes counted.",
+    "example_ru": "Подсчитано восемнадцать голосов."
+  },
+  {
+    "en": "nineteen",
+    "ru": "девятнадцать",
+    "example": "Nineteen minutes left.",
+    "example_ru": "Осталось девятнадцать минут."
+  },
+  {
+    "en": "twenty",
+    "ru": "двадцать",
+    "example": "Twenty cars parked.",
+    "example_ru": "Запарковано двадцать машин."
+  },
+  {
+    "en": "near",
+    "ru": "около",
+    "example": "Sit near me.",
+    "example_ru": "Сядь рядом со мной."
+  },
+  {
+    "en": "add",
+    "ru": "добавлять",
+    "example": "Add salt.",
+    "example_ru": "Добавь соли."
+  },
+  {
+    "en": "food",
+    "ru": "еда",
+    "example": "Food is ready.",
+    "example_ru": "Еда готова."
+  },
+  {
+    "en": "between",
+    "ru": "между",
+    "example": "Sit between friends.",
+    "example_ru": "Сядь между друзьями."
+  },
+  {
+    "en": "own",
+    "ru": "собственный",
+    "example": "Write your own.",
+    "example_ru": "Напиши своё."
+  },
+  {
+    "en": "below",
+    "ru": "ниже",
+    "example": "See below.",
+    "example_ru": "Смотри ниже."
+  },
+  {
+    "en": "country",
+    "ru": "страна",
+    "example": "My country home.",
+    "example_ru": "Мой сельский дом."
+  },
+  {
+    "en": "plant",
+    "ru": "растение",
+    "example": "Water the plant.",
+    "example_ru": "Полей растение."
+  },
+  {
+    "en": "school",
+    "ru": "школа",
+    "example": "School starts soon.",
+    "example_ru": "Школа скоро начинается."
+  },
+  {
+    "en": "father",
+    "ru": "отец",
+    "example": "Father is here.",
+    "example_ru": "Отец здесь."
+  },
+  {
+    "en": "keep",
+    "ru": "держать",
+    "example": "Keep calm.",
+    "example_ru": "Сохраняй спокойствие."
+  },
+  {
+    "en": "tree",
+    "ru": "дерево",
+    "example": "Climb the tree.",
+    "example_ru": "Залезь на дерево."
+  },
+  {
+    "en": "start",
+    "ru": "начинать",
+    "example": "Start now.",
+    "example_ru": "Начинай сейчас."
+  },
+  {
+    "en": "city",
+    "ru": "город",
+    "example": "A big city.",
+    "example_ru": "Большой город."
+  },
+  {
+    "en": "earth",
+    "ru": "земля",
+    "example": "Earth is round.",
+    "example_ru": "Земля круглая."
+  },
+  {
+    "en": "eye",
+    "ru": "глаз",
+    "example": "Close one eye.",
+    "example_ru": "Закрой один глаз."
+  },
+  {
+    "en": "light",
+    "ru": "свет",
+    "example": "Turn on light.",
+    "example_ru": "Включи свет."
+  },
+  {
+    "en": "thought",
+    "ru": "мысль",
+    "example": "Interesting thought.",
+    "example_ru": "Интересная мысль."
+  },
+  {
+    "en": "head",
+    "ru": "голова",
+    "example": "Shake your head.",
+    "example_ru": "Потряси головой."
+  },
+  {
+    "en": "under",
+    "ru": "под",
+    "example": "Sit under tree.",
+    "example_ru": "Сядь под деревом."
+  },
+  {
+    "en": "story",
+    "ru": "история",
+    "example": "Tell a story.",
+    "example_ru": "Расскажи историю."
+  },
+  {
+    "en": "saw",
+    "ru": "пила",
+    "example": "He saw me.",
+    "example_ru": "Он видел меня."
+  },
+  {
+    "en": "important",
+    "ru": "важный",
+    "example": "Important news.",
+    "example_ru": "Важные новости."
+  },
+  {
+    "en": "left",
+    "ru": "левый",
+    "example": "Turn left.",
+    "example_ru": "Поверни налево."
+  },
+  {
+    "en": "until",
+    "ru": "до",
+    "example": "Wait until ten.",
+    "example_ru": "Жди до десяти."
+  },
+  {
+    "en": "don't",
+    "ru": "не",
+    "example": "Don't move.",
+    "example_ru": "Не двигайся."
+  },
+  {
+    "en": "children",
+    "ru": "дети",
+    "example": "Children play.",
+    "example_ru": "Дети играют."
+  },
+  {
+    "en": "few",
+    "ru": "немного",
+    "example": "Few people came.",
+    "example_ru": "Пришло мало людей."
+  },
+  {
+    "en": "side",
+    "ru": "сторона",
+    "example": "Other side now.",
+    "example_ru": "Теперь другая сторона."
+  },
+  {
+    "en": "while",
+    "ru": "пока",
+    "example": "Stay while I work.",
+    "example_ru": "Оставайся, пока я работаю."
+  },
+  {
+    "en": "feet",
+    "ru": "ноги",
+    "example": "Wash your feet.",
+    "example_ru": "Помой ноги."
+  },
+  {
+    "en": "along",
+    "ru": "вдоль",
+    "example": "Walk along river.",
+    "example_ru": "Иди вдоль реки."
+  },
+  {
+    "en": "car",
+    "ru": "машина",
+    "example": "New car shines.",
+    "example_ru": "Новая машина блестит."
+  },
+  {
+    "en": "might",
+    "ru": "мощь",
+    "example": "He might come.",
+    "example_ru": "Он может прийти."
+  },
+  {
+    "en": "mile",
+    "ru": "миля",
+    "example": "One mile left.",
+    "example_ru": "Осталась одна миля."
+  },
+  {
+    "en": "close",
+    "ru": "закрывать",
+    "example": "Close the door.",
+    "example_ru": "Закрой дверь."
+  },
+  {
+    "en": "night",
+    "ru": "ночь",
+    "example": "Good night!",
+    "example_ru": "Спокойной ночи!"
+  },
+  {
+    "en": "something",
+    "ru": "что‑нибудь",
+    "example": "Say something.",
+    "example_ru": "Скажи что‑нибудь."
+  },
+  {
+    "en": "walk",
+    "ru": "ходить",
+    "example": "Walk slowly.",
+    "example_ru": "Гуляй медленно."
+  },
+  {
+    "en": "seem",
+    "ru": "казаться",
+    "example": "You seem tired.",
+    "example_ru": "Ты выглядишь уставшим."
+  },
+  {
+    "en": "white",
+    "ru": "белый",
+    "example": "White snow fell.",
+    "example_ru": "Выпал белый снег."
+  },
+  {
+    "en": "sea",
+    "ru": "море",
+    "example": "Sea is calm.",
+    "example_ru": "Море спокойно."
+  },
+  {
+    "en": "hard",
+    "ru": "жёсткий",
+    "example": "Hard work pays.",
+    "example_ru": "Тяжёлый труд окупается."
+  },
+  {
+    "en": "began",
+    "ru": "начал",
+    "example": "He began early.",
+    "example_ru": "Он начал рано."
+  },
+  {
+    "en": "open",
+    "ru": "открыть",
+    "example": "Open window.",
+    "example_ru": "Открой окно."
+  },
+  {
+    "en": "grow",
+    "ru": "расти",
+    "example": "Plants grow fast.",
+    "example_ru": "Растения быстро растут."
+  },
+  {
+    "en": "example",
+    "ru": "пример",
+    "example": "Good example.",
+    "example_ru": "Хороший пример."
+  },
+  {
+    "en": "took",
+    "ru": "взял",
+    "example": "She took it.",
+    "example_ru": "Она взяла это."
+  },
+  {
+    "en": "begin",
+    "ru": "начинать",
+    "example": "Begin again.",
+    "example_ru": "Начни снова."
+  },
+  {
+    "en": "river",
+    "ru": "река",
+    "example": "Cross the river.",
+    "example_ru": "Перейди реку."
+  },
+  {
+    "en": "life",
+    "ru": "жизнь",
+    "example": "Life is short.",
+    "example_ru": "Жизнь коротка."
+  },
+  {
+    "en": "carry",
+    "ru": "нести",
+    "example": "Carry bags.",
+    "example_ru": "Неси сумки."
+  },
+  {
+    "en": "those",
+    "ru": "те",
+    "example": "Take those apples.",
+    "example_ru": "Возьми те яблоки."
+  },
+  {
+    "en": "state",
+    "ru": "состояние",
+    "example": "State the fact.",
+    "example_ru": "Укажи факт."
+  },
+  {
+    "en": "both",
+    "ru": "оба",
+    "example": "Both are fine.",
+    "example_ru": "Оба в порядке."
+  },
+  {
+    "en": "once",
+    "ru": "однажды",
+    "example": "Once I knew.",
+    "example_ru": "Однажды я знал."
+  },
+  {
+    "en": "paper",
+    "ru": "бумага",
+    "example": "Fold paper.",
+    "example_ru": "Сложи бумагу."
+  },
+  {
+    "en": "book",
+    "ru": "книга",
+    "example": "Read this book.",
+    "example_ru": "Прочитай эту книгу."
+  },
+  {
+    "en": "together",
+    "ru": "вместе",
+    "example": "Work together.",
+    "example_ru": "Работайте вместе."
+  },
+  {
+    "en": "hear",
+    "ru": "слышать",
+    "example": "Hear music?",
+    "example_ru": "Слышишь музыку?"
+  },
+  {
+    "en": "got",
+    "ru": "получил",
+    "example": "I got it.",
+    "example_ru": "Я понял это."
+  },
+  {
+    "en": "stop",
+    "ru": "остановиться",
+    "example": "Stop here.",
+    "example_ru": "Остановись здесь."
+  },
+  {
+    "en": "group",
+    "ru": "группа",
+    "example": "Join our group.",
+    "example_ru": "Присоединяйся к группе."
+  },
+  {
+    "en": "without",
+    "ru": "без",
+    "example": "Tea without sugar.",
+    "example_ru": "Чай без сахара."
+  },
+  {
+    "en": "often",
+    "ru": "часто",
+    "example": "He often visits.",
+    "example_ru": "Он часто навещает."
+  },
+  {
+    "en": "run",
+    "ru": "бегать",
+    "example": "Run faster!",
+    "example_ru": "Беги быстрее!"
+  },
+  {
+    "en": "later",
+    "ru": "позже",
+    "example": "Call later.",
+    "example_ru": "Позвони позже."
+  },
+  {
+    "en": "miss",
+    "ru": "скучать",
+    "example": "I miss you.",
+    "example_ru": "Я скучаю по тебе."
+  },
+  {
+    "en": "idea",
+    "ru": "идея",
+    "example": "Great idea!",
+    "example_ru": "Отличная идея!"
+  },
+  {
+    "en": "enough",
+    "ru": "достаточно",
+    "example": "Enough talk.",
+    "example_ru": "Хватит разговора."
+  },
+  {
+    "en": "eat",
+    "ru": "есть",
+    "example": "Eat breakfast.",
+    "example_ru": "Поешь завтрак."
+  },
+  {
+    "en": "face",
+    "ru": "лицо",
+    "example": "Wash your face.",
+    "example_ru": "Умой лицо."
+  },
+  {
+    "en": "watch",
+    "ru": "смотреть",
+    "example": "Watch this!",
+    "example_ru": "Смотри сюда!"
+  },
+  {
+    "en": "far",
+    "ru": "далеко",
+    "example": "Far from home.",
+    "example_ru": "Далеко от дома."
+  },
+  {
+    "en": "Indian",
+    "ru": "индийский",
+    "example": "Indian food aromatic.",
+    "example_ru": "Индийская еда ароматна."
+  },
+  {
+    "en": "really",
+    "ru": "действительно",
+    "example": "Really nice!",
+    "example_ru": "Действительно классно."
+  },
+  {
+    "en": "almost",
+    "ru": "почти",
+    "example": "Almost done.",
+    "example_ru": "Почти готово."
+  },
+  {
+    "en": "let",
+    "ru": "позволять",
+    "example": "Let me go.",
+    "example_ru": "Позволь мне уйти."
+  },
+  {
+    "en": "above",
+    "ru": "выше",
+    "example": "Clouds above us.",
+    "example_ru": "Облака над нами."
+  },
+  {
+    "en": "girl",
+    "ru": "девочка",
+    "example": "The girl smiles.",
+    "example_ru": "Девочка улыбается."
+  },
+  {
+    "en": "sometimes",
+    "ru": "иногда",
+    "example": "I sometimes run.",
+    "example_ru": "Я иногда бегаю."
+  },
+  {
+    "en": "mountain",
+    "ru": "гора",
+    "example": "Climb the mountain.",
+    "example_ru": "Заберись на гору."
+  },
+  {
+    "en": "cut",
+    "ru": "резать",
+    "example": "Cut the bread.",
+    "example_ru": "Нарежь хлеб."
+  },
+  {
+    "en": "young",
+    "ru": "молодой",
+    "example": "Young trees grow.",
+    "example_ru": "Молодые деревья растут."
+  },
+  {
+    "en": "talk",
+    "ru": "разговаривать",
+    "example": "Talk to me.",
+    "example_ru": "Поговори со мной."
+  },
+  {
+    "en": "soon",
+    "ru": "скоро",
+    "example": "See you soon.",
+    "example_ru": "Увидимся скоро."
+  },
+  {
+    "en": "list",
+    "ru": "список",
+    "example": "Make a list.",
+    "example_ru": "Составь список."
+  },
+  {
+    "en": "song",
+    "ru": "песня",
+    "example": "Sing a song.",
+    "example_ru": "Спой песню."
+  },
+  {
+    "en": "being",
+    "ru": "существование",
+    "example": "Being happy matters.",
+    "example_ru": "Важно быть счастливым."
+  },
+  {
+    "en": "leave",
+    "ru": "оставлять",
+    "example": "Leave the room.",
+    "example_ru": "Оставь комнату."
+  },
+  {
+    "en": "it's",
+    "ru": "это",
+    "example": "It's my bike.",
+    "example_ru": "Это мой велосипед."
+  },
+  {
+    "en": "body",
+    "ru": "тело",
+    "example": "Stretch your body.",
+    "example_ru": "Разомни тело."
+  },
+  {
+    "en": "music",
+    "ru": "музыка",
+    "example": "Play music.",
+    "example_ru": "Включи музыку."
+  },
+  {
+    "en": "color",
+    "ru": "цвет",
+    "example": "Pick a color.",
+    "example_ru": "Выбери цвет."
+  },
+  {
+    "en": "stand",
+    "ru": "стоять",
+    "example": "Stand still.",
+    "example_ru": "Стой тихо."
+  },
+  {
+    "en": "sun",
+    "ru": "солнце",
+    "example": "Sun is bright.",
+    "example_ru": "Солнце яркое."
+  },
+  {
+    "en": "question",
+    "ru": "вопрос",
+    "example": "Ask a question.",
+    "example_ru": "Задай вопрос."
+  },
+  {
+    "en": "fish",
+    "ru": "рыба",
+    "example": "Catch a fish.",
+    "example_ru": "Поймай рыбу."
+  },
+  {
+    "en": "area",
+    "ru": "область",
+    "example": "Quiet area here.",
+    "example_ru": "Здесь тихая область."
+  },
+  {
+    "en": "mark",
+    "ru": "отметка",
+    "example": "Mark the page.",
+    "example_ru": "Отметь страницу."
+  },
+  {
+    "en": "dog",
+    "ru": "собака",
+    "example": "Dog barks loudly.",
+    "example_ru": "Собака громко лает."
+  },
+  {
+    "en": "horse",
+    "ru": "лошадь",
+    "example": "Ride a horse.",
+    "example_ru": "Покатайся на лошади."
+  },
+  {
+    "en": "birds",
+    "ru": "птицы",
+    "example": "Birds sing outside.",
+    "example_ru": "Птицы поют снаружи."
+  },
+  {
+    "en": "problem",
+    "ru": "проблема",
+    "example": "Solve the problem.",
+    "example_ru": "Реши проблему."
+  },
+  {
+    "en": "complete",
+    "ru": "полный",
+    "example": "Task complete.",
+    "example_ru": "Задание выполнено."
+  },
+  {
+    "en": "room",
+    "ru": "комната",
+    "example": "Clean the room.",
+    "example_ru": "Убери комнату."
+  },
+  {
+    "en": "knew",
+    "ru": "знал",
+    "example": "I knew it.",
+    "example_ru": "Я знал это."
+  },
+  {
+    "en": "since",
+    "ru": "с",
+    "example": "Since Monday.",
+    "example_ru": "С понедельника."
+  },
+  {
+    "en": "ever",
+    "ru": "всегда",
+    "example": "Best ever!",
+    "example_ru": "Лучший всегда!"
+  },
+  {
+    "en": "piece",
+    "ru": "кусок",
+    "example": "Take a piece.",
+    "example_ru": "Возьми кусок."
+  },
+  {
+    "en": "told",
+    "ru": "сказал",
+    "example": "She told me.",
+    "example_ru": "Она сказала мне."
+  },
+  {
+    "en": "usually",
+    "ru": "обычно",
+    "example": "I usually read.",
+    "example_ru": "Я обычно читаю."
+  },
+  {
+    "en": "didn't",
+    "ru": "не сделал",
+    "example": "He didn't come.",
+    "example_ru": "Он не пришёл."
+  },
+  {
+    "en": "friends",
+    "ru": "друзья",
+    "example": "Friends help.",
+    "example_ru": "Друзья помогают."
+  },
+  {
+    "en": "easy",
+    "ru": "лёгкий",
+    "example": "Easy task ahead.",
+    "example_ru": "Лёгкое задание впереди."
+  },
+  {
+    "en": "heard",
+    "ru": "слышал",
+    "example": "I heard noise.",
+    "example_ru": "Я услышал шум."
+  },
+  {
+    "en": "order",
+    "ru": "заказ",
+    "example": "Place an order.",
+    "example_ru": "Оформь заказ."
+  },
+  {
+    "en": "red",
+    "ru": "красный",
+    "example": "Red apple shines.",
+    "example_ru": "Красное яблоко блестит."
+  },
+  {
+    "en": "door",
+    "ru": "дверь",
+    "example": "Open the door.",
+    "example_ru": "Открой дверь."
+  },
+  {
+    "en": "sure",
+    "ru": "конечно",
+    "example": "Sure, why not?",
+    "example_ru": "Конечно, почему бы и нет?"
+  },
+  {
+    "en": "become",
+    "ru": "становиться",
+    "example": "Become better.",
+    "example_ru": "Становись лучше."
+  },
+  {
+    "en": "top",
+    "ru": "вершина",
+    "example": "Reach the top.",
+    "example_ru": "Достигни вершины."
+  },
+  {
+    "en": "ship",
+    "ru": "корабль",
+    "example": "Ship left port.",
+    "example_ru": "Корабль ушёл из порта."
+  },
+  {
+    "en": "across",
+    "ru": "через",
+    "example": "Walk across street.",
+    "example_ru": "Перейди улицу."
+  },
+  {
+    "en": "today",
+    "ru": "сегодня",
+    "example": "Today is sunny.",
+    "example_ru": "Сегодня солнечно."
+  },
+  {
+    "en": "during",
+    "ru": "в течение",
+    "example": "Sleep during flight.",
+    "example_ru": "Спи во время полёта."
+  },
+  {
+    "en": "short",
+    "ru": "короткий",
+    "example": "Short break now.",
+    "example_ru": "Сейчас короткий перерыв."
+  },
+  {
+    "en": "better",
+    "ru": "лучше",
+    "example": "Feel better soon.",
+    "example_ru": "Почувствуй себя лучше."
+  },
+  {
+    "en": "best",
+    "ru": "лучший",
+    "example": "You are best.",
+    "example_ru": "Ты лучший."
+  },
+  {
+    "en": "however",
+    "ru": "однако",
+    "example": "However, stay calm.",
+    "example_ru": "Однако оставайся спокойным."
+  },
+  {
+    "en": "low",
+    "ru": "низкий",
+    "example": "Low prices here.",
+    "example_ru": "Здесь низкие цены."
+  },
+  {
+    "en": "hours",
+    "ru": "часы",
+    "example": "Two hours left.",
+    "example_ru": "Осталось два часа."
+  },
+  {
+    "en": "black",
+    "ru": "чёрный",
+    "example": "Black cat waits.",
+    "example_ru": "Чёрный кот ждёт."
+  },
+  {
+    "en": "products",
+    "ru": "продукты",
+    "example": "Fresh products sell.",
+    "example_ru": "Свежие продукты продаются."
+  },
+  {
+    "en": "happened",
+    "ru": "случилось",
+    "example": "What happened?",
+    "example_ru": "Что случилось?"
+  },
+  {
+    "en": "whole",
+    "ru": "весь",
+    "example": "Whole cake gone.",
+    "example_ru": "Весь торт исчез."
+  },
+  {
+    "en": "measure",
+    "ru": "мера",
+    "example": "Measure twice.",
+    "example_ru": "Отмерь дважды."
+  },
+  {
+    "en": "remember",
+    "ru": "помнить",
+    "example": "Remember this day.",
+    "example_ru": "Запомни этот день."
+  },
+  {
+    "en": "early",
+    "ru": "рано",
+    "example": "Wake up early.",
+    "example_ru": "Вставай рано."
+  },
+  {
+    "en": "waves",
+    "ru": "волны",
+    "example": "Waves hit hard.",
+    "example_ru": "Волны бьют сильно."
+  },
+  {
+    "en": "reached",
+    "ru": "достиг",
+    "example": "He reached home.",
+    "example_ru": "Он добрался домой."
+  },
+  {
+    "en": "done",
+    "ru": "сделанный",
+    "example": "Job done!",
+    "example_ru": "Работа сделана!"
+  },
+  {
+    "en": "English",
+    "ru": "английский",
+    "example": "Study English daily.",
+    "example_ru": "Учите английский ежедневно."
+  },
+  {
+    "en": "road",
+    "ru": "дорога",
+    "example": "Cross the road.",
+    "example_ru": "Перейди дорогу."
+  },
+  {
+    "en": "halt",
+    "ru": "остановка",
+    "example": "Buses halt here.",
+    "example_ru": "Автобусы останавливаются здесь."
+  },
+  {
+    "en": "fly",
+    "ru": "летать",
+    "example": "Birds fly high.",
+    "example_ru": "Птицы летят высоко."
+  },
+  {
+    "en": "gave",
+    "ru": "отдал",
+    "example": "She gave money.",
+    "example_ru": "Она дала деньги."
+  },
+  {
+    "en": "box",
+    "ru": "коробка",
+    "example": "Open the box.",
+    "example_ru": "Открой коробку."
+  },
+  {
+    "en": "finally",
+    "ru": "наконец",
+    "example": "We finally met.",
+    "example_ru": "Мы наконец встретились."
+  },
+  {
+    "en": "wait",
+    "ru": "ждать",
+    "example": "Please wait here.",
+    "example_ru": "Пожалуйста, подожди здесь."
+  },
+  {
+    "en": "correct",
+    "ru": "правильный",
+    "example": "Your answer correct.",
+    "example_ru": "Твой ответ правильный."
+  },
+  {
+    "en": "oh",
+    "ru": "ой",
+    "example": "Oh, that's hot!",
+    "example_ru": "Ой, это горячо!"
+  },
+  {
+    "en": "quickly",
+    "ru": "быстро",
+    "example": "Run quickly now.",
+    "example_ru": "Беги сейчас быстро."
+  },
+  {
+    "en": "person",
+    "ru": "человек",
+    "example": "Nice person there.",
+    "example_ru": "Там хороший человек."
+  },
+  {
+    "en": "became",
+    "ru": "стал",
+    "example": "He became doctor.",
+    "example_ru": "Он стал доктором."
+  },
+  {
+    "en": "shown",
+    "ru": "показано",
+    "example": "Map shown above.",
+    "example_ru": "Карта показана выше."
+  },
+  {
+    "en": "minutes",
+    "ru": "минуты",
+    "example": "Ten minutes left.",
+    "example_ru": "Осталось десять минут."
+  },
+  {
+    "en": "strong",
+    "ru": "сильный",
+    "example": "Stay strong.",
+    "example_ru": "Оставайся сильным."
+  },
+  {
+    "en": "stars",
+    "ru": "звёзды",
+    "example": "Stars shine bright.",
+    "example_ru": "Звёзды ярко сияют."
+  },
+  {
+    "en": "front",
+    "ru": "передний",
+    "example": "Sit in front.",
+    "example_ru": "Сядь впереди."
+  },
+  {
+    "en": "feel",
+    "ru": "чувствовать",
+    "example": "I feel good.",
+    "example_ru": "Я чувствую себя хорошо."
+  },
+  {
+    "en": "fact",
+    "ru": "факт",
+    "example": "That's a fact.",
+    "example_ru": "Это факт."
+  },
+  {
+    "en": "inches",
+    "ru": "дюймы",
+    "example": "Two inches wide.",
+    "example_ru": "Шириной два дюйма."
+  },
+  {
+    "en": "street",
+    "ru": "улица",
+    "example": "Clean the street.",
+    "example_ru": "Убери улицу."
+  },
+  {
+    "en": "decided",
+    "ru": "решил",
+    "example": "She decided quickly.",
+    "example_ru": "Она решила быстро."
+  },
+  {
+    "en": "contain",
+    "ru": "содержать",
+    "example": "Boxes contain books.",
+    "example_ru": "Коробки содержат книги."
+  },
+  {
+    "en": "course",
+    "ru": "курс",
+    "example": "Take this course.",
+    "example_ru": "Пройди этот курс."
+  },
+  {
+    "en": "surface",
+    "ru": "поверхность",
+    "example": "Touch the surface.",
+    "example_ru": "Коснись поверхности."
+  },
+  {
+    "en": "produce",
+    "ru": "производить",
+    "example": "Farms produce milk.",
+    "example_ru": "Фермы производят молоко."
+  },
+  {
+    "en": "building",
+    "ru": "здание",
+    "example": "Tall building ahead.",
+    "example_ru": "Высокое здание впереди."
+  },
+  {
+    "en": "ocean",
+    "ru": "океан",
+    "example": "Ocean is deep.",
+    "example_ru": "Океан глубок."
+  },
+  {
+    "en": "class",
+    "ru": "класс",
+    "example": "Math class starts.",
+    "example_ru": "Урок математики начинается."
+  },
+  {
+    "en": "note",
+    "ru": "примечание",
+    "example": "Write a note.",
+    "example_ru": "Напиши заметку."
+  },
+  {
+    "en": "nothing",
+    "ru": "ничего",
+    "example": "Nothing is here.",
+    "example_ru": "Здесь ничего нет."
+  },
+  {
+    "en": "rest",
+    "ru": "отдых",
+    "example": "Take a rest.",
+    "example_ru": "Отдохни."
+  },
+  {
+    "en": "carefully",
+    "ru": "осторожно",
+    "example": "Drive carefully.",
+    "example_ru": "Веди осторожно."
+  },
+  {
+    "en": "scientists",
+    "ru": "учёные",
+    "example": "Scientists discover cures.",
+    "example_ru": "Учёные находят лекарства."
+  },
+  {
+    "en": "inside",
+    "ru": "внутри",
+    "example": "Stay inside house.",
+    "example_ru": "Оставайся внутри дома."
+  },
+  {
+    "en": "wheels",
+    "ru": "колёса",
+    "example": "Wheels spin fast.",
+    "example_ru": "Колёса быстро крутятся."
+  },
+  {
+    "en": "stay",
+    "ru": "оставаться",
+    "example": "Stay home today.",
+    "example_ru": "Оставайся дома сегодня."
+  },
+  {
+    "en": "known",
+    "ru": "известен",
+    "example": "He is known.",
+    "example_ru": "Он известен."
+  },
+  {
+    "en": "island",
+    "ru": "остров",
+    "example": "Visit the island.",
+    "example_ru": "Посети остров."
+  },
+  {
+    "en": "week",
+    "ru": "неделя",
+    "example": "Next week busy.",
+    "example_ru": "Следующая неделя занята."
+  },
+  {
+    "en": "less",
+    "ru": "меньше",
+    "example": "Spend less money.",
+    "example_ru": "Трать меньше денег."
+  },
+  {
+    "en": "machine",
+    "ru": "машина",
+    "example": "Start the machine.",
+    "example_ru": "Запусти машину."
+  },
+  {
+    "en": "base",
+    "ru": "база",
+    "example": "Return to base.",
+    "example_ru": "Вернись на базу."
+  },
+  {
+    "en": "ago",
+    "ru": "назад",
+    "example": "Years ago happened.",
+    "example_ru": "Произошло много лет назад."
+  },
+  {
+    "en": "stood",
+    "ru": "стоял",
+    "example": "She stood silent.",
+    "example_ru": "Она стояла молча."
+  },
+  {
+    "en": "plane",
+    "ru": "самолёт",
+    "example": "Plane takes off.",
+    "example_ru": "Самолёт взлетает."
+  },
+  {
+    "en": "system",
+    "ru": "система",
+    "example": "Update the system.",
+    "example_ru": "Обнови систему."
+  },
+  {
+    "en": "behind",
+    "ru": "позади",
+    "example": "Stay behind me.",
+    "example_ru": "Оставайся позади меня."
+  },
+  {
+    "en": "ran",
+    "ru": "побежал",
+    "example": "He ran home.",
+    "example_ru": "Он побежал домой."
+  },
+  {
+    "en": "round",
+    "ru": "круглый",
+    "example": "Round table here.",
+    "example_ru": "Здесь круглый стол."
+  },
+  {
+    "en": "boat",
+    "ru": "лодка",
+    "example": "Row the boat.",
+    "example_ru": "Греби лодку."
+  },
+  {
+    "en": "game",
+    "ru": "игра",
+    "example": "Join the game.",
+    "example_ru": "Присоединяйся к игре."
+  },
+  {
+    "en": "force",
+    "ru": "сила",
+    "example": "Use your force.",
+    "example_ru": "Используй свою силу."
+  },
+  {
+    "en": "brought",
+    "ru": "принёс",
+    "example": "He brought food.",
+    "example_ru": "Он принёс еду."
+  },
+  {
+    "en": "understand",
+    "ru": "понимать",
+    "example": "I understand you.",
+    "example_ru": "Я понимаю тебя."
+  },
+  {
+    "en": "warm",
+    "ru": "тёплый",
+    "example": "Keep the soup warm.",
+    "example_ru": "Держи суп тёплым."
+  },
+  {
+    "en": "common",
+    "ru": "общий",
+    "example": "We share common goals.",
+    "example_ru": "У нас общие цели."
+  },
+  {
+    "en": "bring",
+    "ru": "приносить",
+    "example": "Bring the keys.",
+    "example_ru": "Принеси ключи."
+  },
+  {
+    "en": "explain",
+    "ru": "объяснять",
+    "example": "Please explain again.",
+    "example_ru": "Пожалуйста, объясни ещё раз."
+  },
+  {
+    "en": "dry",
+    "ru": "сухой",
+    "example": "Keep clothes dry.",
+    "example_ru": "Держи одежду сухой."
+  },
+  {
+    "en": "though",
+    "ru": "хотя",
+    "example": "Though tired, he smiled.",
+    "example_ru": "Хотя устал, он улыбнулся."
+  },
+  {
+    "en": "language",
+    "ru": "язык",
+    "example": "Language connects people.",
+    "example_ru": "Язык соединяет людей."
+  },
+  {
+    "en": "shape",
+    "ru": "форма",
+    "example": "Cut a round shape.",
+    "example_ru": "Вырежи круглую форму."
+  },
+  {
+    "en": "deep",
+    "ru": "глубокий",
+    "example": "The lake is deep.",
+    "example_ru": "Озеро глубокое."
+  },
+  {
+    "en": "thousands",
+    "ru": "тысячи",
+    "example": "Thousands cheered loudly.",
+    "example_ru": "Тысячи громко приветствовали."
+  },
+  {
+    "en": "yes",
+    "ru": "да",
+    "example": "Say yes soon.",
+    "example_ru": "Скажи «да» вскоре."
+  },
+  {
+    "en": "clear",
+    "ru": "ясный",
+    "example": "Sky is clear.",
+    "example_ru": "Небо ясное."
+  },
+  {
+    "en": "equation",
+    "ru": "уравнение",
+    "example": "Solve this equation.",
+    "example_ru": "Реши это уравнение."
+  },
+  {
+    "en": "yet",
+    "ru": "ещё",
+    "example": "Not finished yet.",
+    "example_ru": "Ещё не завершено."
+  },
+  {
+    "en": "government",
+    "ru": "правительство",
+    "example": "Government changed laws.",
+    "example_ru": "Правительство изменило законы."
+  },
+  {
+    "en": "filled",
+    "ru": "заполненный",
+    "example": "Glass filled fully.",
+    "example_ru": "Стакан полностью заполнен."
+  },
+  {
+    "en": "heat",
+    "ru": "нагревать",
+    "example": "Heat the water.",
+    "example_ru": "Нагрей воду."
+  },
+  {
+    "en": "full",
+    "ru": "полный",
+    "example": "The box is full.",
+    "example_ru": "Коробка полная."
+  },
+  {
+    "en": "hot",
+    "ru": "горячий",
+    "example": "Coffee is hot.",
+    "example_ru": "Кофе горячий."
+  },
+  {
+    "en": "check",
+    "ru": "проверять",
+    "example": "Check your work.",
+    "example_ru": "Проверь свою работу."
+  },
+  {
+    "en": "object",
+    "ru": "объект",
+    "example": "Move the object.",
+    "example_ru": "Перемести объект."
+  },
+  {
+    "en": "am",
+    "ru": "являюсь",
+    "example": "I am ready.",
+    "example_ru": "Я готов."
+  },
+  {
+    "en": "rule",
+    "ru": "правило",
+    "example": "Follow the rule.",
+    "example_ru": "Следуй правилу."
+  },
+  {
+    "en": "among",
+    "ru": "среди",
+    "example": "Sit among friends.",
+    "example_ru": "Сядь среди друзей."
+  },
+  {
+    "en": "cannot",
+    "ru": "не могу",
+    "example": "I cannot wait.",
+    "example_ru": "Я не могу ждать."
+  },
+  {
+    "en": "able",
+    "ru": "способный",
+    "example": "She is able.",
+    "example_ru": "Она способна."
+  },
+  {
+    "en": "size",
+    "ru": "размер",
+    "example": "Choose right size.",
+    "example_ru": "Выбери правильный размер."
+  },
+  {
+    "en": "dark",
+    "ru": "тёмный",
+    "example": "Street is dark.",
+    "example_ru": "Улица тёмная."
+  },
+  {
+    "en": "ball",
+    "ru": "мяч",
+    "example": "Kick the ball.",
+    "example_ru": "Ударь мяч."
+  },
+  {
+    "en": "material",
+    "ru": "материал",
+    "example": "What material this?",
+    "example_ru": "Из какого это материала?"
+  },
+  {
+    "en": "special",
+    "ru": "особенный",
+    "example": "Today is special.",
+    "example_ru": "Сегодня особенный день."
+  },
+  {
+    "en": "heavy",
+    "ru": "тяжёлый",
+    "example": "Bag feels heavy.",
+    "example_ru": "Сумка тяжёлая."
+  },
+  {
+    "en": "fine",
+    "ru": "отлично",
+    "example": "You did fine.",
+    "example_ru": "Ты сделал отлично."
+  },
+  {
+    "en": "pair",
+    "ru": "пара",
+    "example": "Need a pair.",
+    "example_ru": "Нужна пара."
+  },
+  {
+    "en": "circle",
+    "ru": "круг",
+    "example": "Draw a circle.",
+    "example_ru": "Нарисуй круг."
+  },
+  {
+    "en": "include",
+    "ru": "включать",
+    "example": "Include your name.",
+    "example_ru": "Включи своё имя."
+  },
+  {
+    "en": "built",
+    "ru": "построен",
+    "example": "Bridge built fast.",
+    "example_ru": "Мост построен быстро."
+  },
+  {
+    "en": "can't",
+    "ru": "не мочь",
+    "example": "I can't move.",
+    "example_ru": "Я не могу двигаться."
+  },
+  {
+    "en": "matter",
+    "ru": "иметь значение",
+    "example": "Details matter.",
+    "example_ru": "Детали имеют значение."
+  },
+  {
+    "en": "square",
+    "ru": "квадрат",
+    "example": "Cut a square.",
+    "example_ru": "Вырежи квадрат."
+  },
+  {
+    "en": "syllables",
+    "ru": "слоги",
+    "example": "Count three syllables.",
+    "example_ru": "Посчитай три слога."
+  },
+  {
+    "en": "perhaps",
+    "ru": "возможно",
+    "example": "Perhaps later.",
+    "example_ru": "Возможно позже."
+  },
+  {
+    "en": "bill",
+    "ru": "счёт",
+    "example": "Pay the bill.",
+    "example_ru": "Оплати счёт."
+  },
+  {
+    "en": "felt",
+    "ru": "чувствовал",
+    "example": "She felt cold.",
+    "example_ru": "Она чувствовала холод."
+  },
+  {
+    "en": "suddenly",
+    "ru": "внезапно",
+    "example": "It stopped suddenly.",
+    "example_ru": "Это внезапно остановилось."
+  },
+  {
+    "en": "test",
+    "ru": "тест",
+    "example": "Pass the test.",
+    "example_ru": "Пройди тест."
+  },
+  {
+    "en": "direction",
+    "ru": "направление",
+    "example": "Change direction now.",
+    "example_ru": "Измени направление сейчас."
+  },
+  {
+    "en": "center",
+    "ru": "центр",
+    "example": "Meet at center.",
+    "example_ru": "Встреться в центре."
+  },
+  {
+    "en": "farmers",
+    "ru": "фермеры",
+    "example": "Farmers grow wheat.",
+    "example_ru": "Фермеры выращивают пшеницу."
+  },
+  {
+    "en": "ready",
+    "ru": "готовый",
+    "example": "Dinner is ready.",
+    "example_ru": "Ужин готов."
+  },
+  {
+    "en": "anything",
+    "ru": "что‑либо",
+    "example": "Need anything else?",
+    "example_ru": "Нужен ли ещё что‑нибудь?"
+  },
+  {
+    "en": "divided",
+    "ru": "разделённый",
+    "example": "Room divided equally.",
+    "example_ru": "Комната поделена поровну."
+  },
+  {
+    "en": "general",
+    "ru": "общий",
+    "example": "General opinion positive.",
+    "example_ru": "Общее мнение положительное."
+  },
+  {
+    "en": "energy",
+    "ru": "энергия",
+    "example": "Save your energy.",
+    "example_ru": "Сбереги энергию."
+  },
+  {
+    "en": "Europe",
+    "ru": "Европа",
+    "example": "Europe is large.",
+    "example_ru": "Европа большая."
+  },
+  {
+    "en": "moon",
+    "ru": "луна",
+    "example": "The moon shines.",
+    "example_ru": "Луна светит."
+  },
+  {
+    "en": "region",
+    "ru": "регион",
+    "example": "This region grows rice.",
+    "example_ru": "В этом регионе выращивают рис."
+  },
+  {
+    "en": "return",
+    "ru": "возвращаться",
+    "example": "Return soon, please.",
+    "example_ru": "Пожалуйста, вернись скоро."
+  },
+  {
+    "en": "believe",
+    "ru": "верить",
+    "example": "I believe you.",
+    "example_ru": "Я верю тебе."
+  },
+  {
+    "en": "dance",
+    "ru": "танцевать",
+    "example": "They dance together.",
+    "example_ru": "Они танцуют вместе."
+  },
+  {
+    "en": "members",
+    "ru": "члены",
+    "example": "Team members met.",
+    "example_ru": "Члены команды встретились."
+  },
+  {
+    "en": "picked",
+    "ru": "выбрал",
+    "example": "She picked red.",
+    "example_ru": "Она выбрала красное."
+  },
+  {
+    "en": "simple",
+    "ru": "простой",
+    "example": "The task is simple.",
+    "example_ru": "Задание простое."
+  },
+  {
+    "en": "cells",
+    "ru": "клетки",
+    "example": "Blood has cells.",
+    "example_ru": "В крови есть клетки."
+  },
+  {
+    "en": "paint",
+    "ru": "краска",
+    "example": "Mix the paint.",
+    "example_ru": "Смешай краску."
+  },
+  {
+    "en": "mind",
+    "ru": "разум",
+    "example": "Free your mind.",
+    "example_ru": "Освободи свой разум."
+  },
+  {
+    "en": "love",
+    "ru": "любовь",
+    "example": "Love conquers all.",
+    "example_ru": "Любовь побеждает всё."
+  },
+  {
+    "en": "cause",
+    "ru": "причина",
+    "example": "Find the cause.",
+    "example_ru": "Найди причину."
+  },
+  {
+    "en": "rain",
+    "ru": "дождь",
+    "example": "Rain is falling.",
+    "example_ru": "Идёт дождь."
+  },
+  {
+    "en": "exercise",
+    "ru": "упражнение",
+    "example": "Do morning exercise.",
+    "example_ru": "Делай утреннюю зарядку."
+  },
+  {
+    "en": "eggs",
+    "ru": "яйца",
+    "example": "Boil the eggs.",
+    "example_ru": "Свари яйца."
+  },
+  {
+    "en": "train",
+    "ru": "тренироваться",
+    "example": "He will train daily.",
+    "example_ru": "Он будет тренироваться ежедневно."
+  },
+  {
+    "en": "blue",
+    "ru": "синий",
+    "example": "The sky is blue.",
+    "example_ru": "Небо синее."
+  },
+  {
+    "en": "wish",
+    "ru": "желание",
+    "example": "Make a wish.",
+    "example_ru": "Загадай желание."
+  },
+  {
+    "en": "drop",
+    "ru": "уронить",
+    "example": "Don't drop it.",
+    "example_ru": "Не урони это."
+  },
+  {
+    "en": "developed",
+    "ru": "развитый",
+    "example": "City is developed.",
+    "example_ru": "Город развит."
+  },
+  {
+    "en": "window",
+    "ru": "окно",
+    "example": "Open the window.",
+    "example_ru": "Открой окно."
+  },
+  {
+    "en": "difference",
+    "ru": "разница",
+    "example": "Spot the difference.",
+    "example_ru": "Найди разницу."
+  },
+  {
+    "en": "distance",
+    "ru": "расстояние",
+    "example": "Keep distance please.",
+    "example_ru": "Держи дистанцию, пожалуйста."
+  },
+  {
+    "en": "heart",
+    "ru": "сердце",
+    "example": "Her heart beats.",
+    "example_ru": "Её сердце бьётся."
+  },
+  {
+    "en": "sit",
+    "ru": "сидеть",
+    "example": "Sit down here.",
+    "example_ru": "Сядь здесь."
+  },
+  {
+    "en": "sum",
+    "ru": "сумма",
+    "example": "Calculate the sum.",
+    "example_ru": "Вычисли сумму."
+  },
+  {
+    "en": "summer",
+    "ru": "лето",
+    "example": "Summer is hot.",
+    "example_ru": "Лето жаркое."
+  },
+  {
+    "en": "wall",
+    "ru": "стена",
+    "example": "Paint the wall.",
+    "example_ru": "Покрась стену."
+  },
+  {
+    "en": "forest",
+    "ru": "лес",
+    "example": "Walk through forest.",
+    "example_ru": "Пройдись по лесу."
+  },
+  {
+    "en": "probably",
+    "ru": "вероятно",
+    "example": "He will probably come.",
+    "example_ru": "Он вероятно придёт."
+  },
+  {
+    "en": "legs",
+    "ru": "ноги",
+    "example": "Stretch your legs.",
+    "example_ru": "Разомни ноги."
+  },
+  {
+    "en": "sat",
+    "ru": "сел",
+    "example": "She sat quietly.",
+    "example_ru": "Она тихо села."
+  },
+  {
+    "en": "main",
+    "ru": "основной",
+    "example": "Main idea clear.",
+    "example_ru": "Основная идея ясна."
+  },
+  {
+    "en": "winter",
+    "ru": "зима",
+    "example": "Winter feels cold.",
+    "example_ru": "Зима холодная."
+  },
+  {
+    "en": "wide",
+    "ru": "широкий",
+    "example": "Road is wide.",
+    "example_ru": "Дорога широкая."
+  },
+  {
+    "en": "written",
+    "ru": "написано",
+    "example": "It is written here.",
+    "example_ru": "Это написано здесь."
+  },
+  {
+    "en": "length",
+    "ru": "длина",
+    "example": "Measure the length.",
+    "example_ru": "Измерь длину."
+  },
+  {
+    "en": "reason",
+    "ru": "причина",
+    "example": "Give a reason.",
+    "example_ru": "Дай причину."
+  },
+  {
+    "en": "kept",
+    "ru": "хранил",
+    "example": "He kept notes.",
+    "example_ru": "Он хранил записи."
+  },
+  {
+    "en": "interest",
+    "ru": "интерес",
+    "example": "Show some interest.",
+    "example_ru": "Прояви интерес."
+  },
+  {
+    "en": "arms",
+    "ru": "руки",
+    "example": "Raise your arms.",
+    "example_ru": "Подними руки."
+  },
+  {
+    "en": "brother",
+    "ru": "брат",
+    "example": "My brother studies.",
+    "example_ru": "Мой брат учится."
+  },
+  {
+    "en": "present",
+    "ru": "подарок",
+    "example": "Open your present.",
+    "example_ru": "Открой подарок."
+  },
+  {
+    "en": "beautiful",
+    "ru": "красивый",
+    "example": "The garden is beautiful.",
+    "example_ru": "Сад красивый."
+  },
+  {
+    "en": "store",
+    "ru": "магазин",
+    "example": "Go to the store.",
+    "example_ru": "Иди в магазин."
+  },
+  {
+    "en": "job",
+    "ru": "работа",
+    "example": "I like my job.",
+    "example_ru": "Мне нравится моя работа."
+  },
+  {
+    "en": "edge",
+    "ru": "край",
+    "example": "Stand at edge.",
+    "example_ru": "Встань на край."
+  },
+  {
+    "en": "past",
+    "ru": "прошлое",
+    "example": "Forget the past.",
+    "example_ru": "Забудь прошлое."
+  },
+  {
+    "en": "sign",
+    "ru": "знак",
+    "example": "Read the sign.",
+    "example_ru": "Прочитай знак."
+  },
+  {
+    "en": "record",
+    "ru": "записывать",
+    "example": "Record the video.",
+    "example_ru": "Запиши видео."
+  },
+  {
+    "en": "finished",
+    "ru": "законченный",
+    "example": "Work is finished.",
+    "example_ru": "Работа завершена."
+  },
+  {
+    "en": "discovered",
+    "ru": "обнаруженный",
+    "example": "Gold was discovered.",
+    "example_ru": "Золото было обнаружено."
+  },
+  {
+    "en": "wild",
+    "ru": "дикий",
+    "example": "Wild animals roam.",
+    "example_ru": "Дикие животные бродят."
+  },
+  {
+    "en": "happy",
+    "ru": "счастливый",
+    "example": "She feels happy.",
+    "example_ru": "Она чувствует себя счастливой."
+  },
+  {
+    "en": "beside",
+    "ru": "рядом",
+    "example": "Sit beside me.",
+    "example_ru": "Сядь рядом со мной."
+  },
+  {
+    "en": "gone",
+    "ru": "ушёл",
+    "example": "The cat is gone.",
+    "example_ru": "Кот ушёл."
+  },
+  {
+    "en": "sky",
+    "ru": "небо",
+    "example": "Sky looks clear.",
+    "example_ru": "Небо ясное."
+  },
+  {
+    "en": "glass",
+    "ru": "стекло",
+    "example": "Glass broke easily.",
+    "example_ru": "Стекло легко разбилось."
+  },
+  {
+    "en": "million",
+    "ru": "миллион",
+    "example": "It costs million.",
+    "example_ru": "Это стоит миллион."
+  },
+  {
+    "en": "west",
+    "ru": "запад",
+    "example": "The sun sets west.",
+    "example_ru": "Солнце садится на западе."
+  },
+  {
+    "en": "lay",
+    "ru": "класть",
+    "example": "Lay the book here.",
+    "example_ru": "Положи книгу сюда."
+  },
+  {
+    "en": "weather",
+    "ru": "погода",
+    "example": "The weather changed.",
+    "example_ru": "Погода изменилась."
+  },
+  {
+    "en": "root",
+    "ru": "корень",
+    "example": "Pull out the root.",
+    "example_ru": "Вынь корень."
+  },
+  {
+    "en": "instruments",
+    "ru": "инструменты",
+    "example": "Clean the instruments.",
+    "example_ru": "Почисть инструменты."
+  },
+  {
+    "en": "meet",
+    "ru": "встречаться",
+    "example": "We meet today.",
+    "example_ru": "Мы встречаемся сегодня."
+  },
+  {
+    "en": "months",
+    "ru": "месяцы",
+    "example": "Two months passed.",
+    "example_ru": "Прошло два месяца."
+  },
+  {
+    "en": "paragraph",
+    "ru": "абзац",
+    "example": "Read the paragraph.",
+    "example_ru": "Прочитай абзац."
+  },
+  {
+    "en": "raised",
+    "ru": "поднятый",
+    "example": "He raised hands.",
+    "example_ru": "Он поднял руки."
+  },
+  {
+    "en": "represent",
+    "ru": "представлять",
+    "example": "Flags represent countries.",
+    "example_ru": "Флаги представляют страны."
+  },
+  {
+    "en": "soft",
+    "ru": "мягкий",
+    "example": "The pillow is soft.",
+    "example_ru": "Подушка мягкая."
+  },
+  {
+    "en": "whether",
+    "ru": "ли",
+    "example": "Decide whether to go.",
+    "example_ru": "Реши, идти ли."
+  },
+  {
+    "en": "clothes",
+    "ru": "одежда",
+    "example": "Fold the clothes.",
+    "example_ru": "Сложи одежду."
+  },
+  {
+    "en": "flowers",
+    "ru": "цветы",
+    "example": "Water the flowers.",
+    "example_ru": "Полей цветы."
+  },
+  {
+    "en": "shall",
+    "ru": "должен",
+    "example": "Shall we start?",
+    "example_ru": "Нам начинать?"
+  },
+  {
+    "en": "teacher",
+    "ru": "учитель",
+    "example": "The teacher smiles.",
+    "example_ru": "Учитель улыбается."
+  },
+  {
+    "en": "held",
+    "ru": "держал",
+    "example": "She held milk.",
+    "example_ru": "Она держала молоко."
+  },
+  {
+    "en": "describe",
+    "ru": "описывать",
+    "example": "Describe the scene.",
+    "example_ru": "Опиши сцену."
+  },
+  {
+    "en": "drive",
+    "ru": "водить",
+    "example": "I drive home.",
+    "example_ru": "Я еду домой."
+  },
+  {
+    "en": "cross",
+    "ru": "крест",
+    "example": "Draw a cross.",
+    "example_ru": "Нарисуй крест."
+  },
+  {
+    "en": "speak",
+    "ru": "говорить",
+    "example": "Speak louder, please.",
+    "example_ru": "Говори громче, пожалуйста."
+  },
+  {
+    "en": "solve",
+    "ru": "решать",
+    "example": "Solve the puzzle.",
+    "example_ru": "Реши головоломку."
+  },
+  {
+    "en": "appear",
+    "ru": "появляться",
+    "example": "Stars appear tonight.",
+    "example_ru": "Звёзды появляются сегодня."
+  },
+  {
+    "en": "metal",
+    "ru": "металл",
+    "example": "Metal feels cold.",
+    "example_ru": "Металл холодный."
+  },
+  {
+    "en": "son",
+    "ru": "сын",
+    "example": "His son laughed.",
+    "example_ru": "Его сын смеялся."
+  },
+  {
+    "en": "either",
+    "ru": "либо",
+    "example": "Take either cup.",
+    "example_ru": "Возьми любую чашку."
+  },
+  {
+    "en": "ice",
+    "ru": "лёд",
+    "example": "Ice melts fast.",
+    "example_ru": "Лёд быстро тает."
+  },
+  {
+    "en": "sleep",
+    "ru": "спать",
+    "example": "Babies sleep well.",
+    "example_ru": "Младенцы хорошо спят."
+  },
+  {
+    "en": "village",
+    "ru": "деревня",
+    "example": "The village sleeps.",
+    "example_ru": "Деревня спит."
+  },
+  {
+    "en": "factors",
+    "ru": "факторы",
+    "example": "Many factors matter.",
+    "example_ru": "Важны многие факторы."
+  },
+  {
+    "en": "result",
+    "ru": "результат",
+    "example": "Show the result.",
+    "example_ru": "Покажи результат."
+  },
+  {
+    "en": "jumped",
+    "ru": "прыгнул",
+    "example": "The cat jumped.",
+    "example_ru": "Кот прыгнул."
+  },
+  {
+    "en": "snow",
+    "ru": "снег",
+    "example": "Snow is falling.",
+    "example_ru": "Падает снег."
+  },
+  {
+    "en": "ride",
+    "ru": "поездка",
+    "example": "Enjoy the ride.",
+    "example_ru": "Наслаждайся поездкой."
+  },
+  {
+    "en": "care",
+    "ru": "забота",
+    "example": "I care deeply.",
+    "example_ru": "Я сильно забочусь."
+  },
+  {
+    "en": "floor",
+    "ru": "пол",
+    "example": "Sweep the floor.",
+    "example_ru": "Подмети пол."
+  },
+  {
+    "en": "hill",
+    "ru": "холм",
+    "example": "Climb the hill.",
+    "example_ru": "Взберись на холм."
+  },
+  {
+    "en": "pushed",
+    "ru": "толкнул",
+    "example": "He pushed door.",
+    "example_ru": "Он толкнул дверь."
+  },
+  {
+    "en": "baby",
+    "ru": "малыш",
+    "example": "The baby laughed.",
+    "example_ru": "Малыш засмеялся."
+  },
+  {
+    "en": "buy",
+    "ru": "купить",
+    "example": "Buy fresh bread.",
+    "example_ru": "Купи свежий хлеб."
+  },
+  {
+    "en": "century",
+    "ru": "век",
+    "example": "A century passed.",
+    "example_ru": "Прошёл век."
+  },
+  {
+    "en": "outside",
+    "ru": "снаружи",
+    "example": "Wait outside now.",
+    "example_ru": "Подожди снаружи сейчас."
+  },
+  {
+    "en": "everything",
+    "ru": "всё",
+    "example": "Everything is fine.",
+    "example_ru": "Всё хорошо."
+  },
+  {
+    "en": "tall",
+    "ru": "высокий",
+    "example": "He is tall.",
+    "example_ru": "Он высокий."
+  },
+  {
+    "en": "already",
+    "ru": "уже",
+    "example": "I already know.",
+    "example_ru": "Я уже знаю."
+  },
+  {
+    "en": "instead",
+    "ru": "вместо",
+    "example": "Take tea instead.",
+    "example_ru": "Возьми чай вместо этого."
+  },
+  {
+    "en": "phrase",
+    "ru": "фраза",
+    "example": "Learn the phrase.",
+    "example_ru": "Выучи фразу."
+  },
+  {
+    "en": "soil",
+    "ru": "почва",
+    "example": "Fertile soil helps.",
+    "example_ru": "Плодородная почва помогает."
+  },
+  {
+    "en": "bed",
+    "ru": "кровать",
+    "example": "Make the bed.",
+    "example_ru": "Заправь кровать."
+  },
+  {
+    "en": "copy",
+    "ru": "копировать",
+    "example": "Copy this file.",
+    "example_ru": "Скопируй этот файл."
+  },
+  {
+    "en": "free",
+    "ru": "бесплатно",
+    "example": "Water is free.",
+    "example_ru": "Вода бесплатна."
+  },
+  {
+    "en": "hope",
+    "ru": "надеяться",
+    "example": "Never lose hope.",
+    "example_ru": "Никогда не теряй надежду."
+  },
+  {
+    "en": "spring",
+    "ru": "весна",
+    "example": "Spring brings flowers.",
+    "example_ru": "Весна приносит цветы."
+  },
+  {
+    "en": "case",
+    "ru": "случай",
+    "example": "In this case.",
+    "example_ru": "В этом случае."
+  },
+  {
+    "en": "laughed",
+    "ru": "рассмеялся",
+    "example": "She laughed loudly.",
+    "example_ru": "Она громко рассмеялась."
+  },
+  {
+    "en": "nation",
+    "ru": "нация",
+    "example": "The nation votes.",
+    "example_ru": "Нация голосует."
+  },
+  {
+    "en": "quite",
+    "ru": "довольно",
+    "example": "Quite good work.",
+    "example_ru": "Довольно хорошая работа."
+  },
+  {
+    "en": "type",
+    "ru": "тип",
+    "example": "Choose a type.",
+    "example_ru": "Выбери тип."
+  },
+  {
+    "en": "themselves",
+    "ru": "сами",
+    "example": "They built themselves.",
+    "example_ru": "Они построили сами."
+  },
+  {
+    "en": "temperature",
+    "ru": "температура",
+    "example": "Check temperature now.",
+    "example_ru": "Проверь температуру сейчас."
+  },
+  {
+    "en": "bright",
+    "ru": "яркий",
+    "example": "Bright colors shine.",
+    "example_ru": "Яркие цвета сияют."
+  },
+  {
+    "en": "lead",
+    "ru": "вести",
+    "example": "Lead the way.",
+    "example_ru": "Веди дорогу."
+  },
+  {
+    "en": "everyone",
+    "ru": "каждый",
+    "example": "Everyone smiled back.",
+    "example_ru": "Каждый улыбнулся в ответ."
+  },
+  {
+    "en": "method",
+    "ru": "метод",
+    "example": "New method works.",
+    "example_ru": "Новый метод работает."
+  },
+  {
+    "en": "section",
+    "ru": "раздел",
+    "example": "Read this section.",
+    "example_ru": "Прочитай этот раздел."
+  },
+  {
+    "en": "lake",
+    "ru": "озеро",
+    "example": "The lake froze.",
+    "example_ru": "Озеро замёрзло."
+  },
+  {
+    "en": "within",
+    "ru": "в пределах",
+    "example": "Stay within limits.",
+    "example_ru": "Оставайся в пределах."
+  },
+  {
+    "en": "dictionary",
+    "ru": "словарь",
+    "example": "Open the dictionary.",
+    "example_ru": "Открой словарь."
+  },
+  {
+    "en": "hair",
+    "ru": "волосы",
+    "example": "Brush your hair.",
+    "example_ru": "Расчеши волосы."
+  },
+  {
+    "en": "age",
+    "ru": "возраст",
+    "example": "What is age?",
+    "example_ru": "Какой возраст?"
+  },
+  {
+    "en": "amount",
+    "ru": "количество",
+    "example": "Reduce the amount.",
+    "example_ru": "Уменьши количество."
+  },
+  {
+    "en": "scale",
+    "ru": "шкала",
+    "example": "Check weight scale.",
+    "example_ru": "Проверь весы."
+  },
+  {
+    "en": "pounds",
+    "ru": "фунты",
+    "example": "Ten pounds gone.",
+    "example_ru": "Десять фунтов ушло."
+  },
+  {
+    "en": "although",
+    "ru": "хотя",
+    "example": "Although it rained.",
+    "example_ru": "Хотя шёл дождь."
+  },
+  {
+    "en": "per",
+    "ru": "за",
+    "example": "Miles per hour.",
+    "example_ru": "Миль в час."
+  },
+  {
+    "en": "broken",
+    "ru": "сломанный",
+    "example": "The glass broken.",
+    "example_ru": "Стекло сломано."
+  },
+  {
+    "en": "moment",
+    "ru": "момент",
+    "example": "Wait one moment.",
+    "example_ru": "Подожди момент."
+  },
+  {
+    "en": "tiny",
+    "ru": "крошечный",
+    "example": "A tiny bug.",
+    "example_ru": "Крошечный жучок."
+  },
+  {
+    "en": "possible",
+    "ru": "возможный",
+    "example": "Anything is possible.",
+    "example_ru": "Всё возможно."
+  },
+  {
+    "en": "gold",
+    "ru": "золото",
+    "example": "Gold shines bright.",
+    "example_ru": "Золото ярко блестит."
+  },
+  {
+    "en": "milk",
+    "ru": "молоко",
+    "example": "Drink warm milk.",
+    "example_ru": "Выпей тёплого молока."
+  },
+  {
+    "en": "quiet",
+    "ru": "тихий",
+    "example": "Be quiet please.",
+    "example_ru": "Будь тихим, пожалуйста."
+  },
+  {
+    "en": "natural",
+    "ru": "естественный",
+    "example": "Natural light helps.",
+    "example_ru": "Естественный свет помогает."
+  },
+  {
+    "en": "lot",
+    "ru": "много",
+    "example": "A lot changed.",
+    "example_ru": "Многое изменилось."
+  },
+  {
+    "en": "stone",
+    "ru": "камень",
+    "example": "Throw the stone.",
+    "example_ru": "Брось камень."
+  },
+  {
+    "en": "act",
+    "ru": "действовать",
+    "example": "Act right now.",
+    "example_ru": "Действуй прямо сейчас."
+  },
+  {
+    "en": "build",
+    "ru": "строить",
+    "example": "Build a house.",
+    "example_ru": "Построй дом."
+  },
+  {
+    "en": "middle",
+    "ru": "середина",
+    "example": "In the middle.",
+    "example_ru": "В середине."
+  },
+  {
+    "en": "speed",
+    "ru": "скорость",
+    "example": "Increase the speed.",
+    "example_ru": "Увеличь скорость."
+  },
+  {
+    "en": "count",
+    "ru": "считать",
+    "example": "Count to ten.",
+    "example_ru": "Посчитай до десяти."
+  },
+  {
+    "en": "cat",
+    "ru": "кот",
+    "example": "The cat sleeps.",
+    "example_ru": "Кот спит."
+  },
+  {
+    "en": "someone",
+    "ru": "кто‑то",
+    "example": "Someone knocked.",
+    "example_ru": "Кто‑то постучал."
+  },
+  {
+    "en": "sail",
+    "ru": "плыть",
+    "example": "Sail the boat.",
+    "example_ru": "Плыви на лодке."
+  },
+  {
+    "en": "rolled",
+    "ru": "свернул",
+    "example": "He rolled map.",
+    "example_ru": "Он свернул карту."
+  },
+  {
+    "en": "bear",
+    "ru": "медведь",
+    "example": "A bear roared.",
+    "example_ru": "Медведь зарычал."
+  },
+  {
+    "en": "wonder",
+    "ru": "удивляться",
+    "example": "I wonder why.",
+    "example_ru": "Интересно, почему."
+  },
+  {
+    "en": "smiled",
+    "ru": "улыбнулся",
+    "example": "He smiled gently.",
+    "example_ru": "Он мягко улыбнулся."
+  },
+  {
+    "en": "angle",
+    "ru": "угол",
+    "example": "Measure the angle.",
+    "example_ru": "Измерь угол."
+  },
+  {
+    "en": "fraction",
+    "ru": "дробь",
+    "example": "Simplify the fraction.",
+    "example_ru": "Упростите дробь."
+  },
+  {
+    "en": "Africa",
+    "ru": "Африка",
+    "example": "Africa is vast.",
+    "example_ru": "Африка огромна."
+  },
+  {
+    "en": "killed",
+    "ru": "убил",
+    "example": "He killed time.",
+    "example_ru": "Он убил время."
+  },
+  {
+    "en": "melody",
+    "ru": "мелодия",
+    "example": "Hum the melody.",
+    "example_ru": "Насвисти мелодию."
+  },
+  {
+    "en": "bottom",
+    "ru": "дно",
+    "example": "Touch the bottom.",
+    "example_ru": "Коснись дна."
+  },
+  {
+    "en": "trip",
+    "ru": "поездка",
+    "example": "Enjoy the trip.",
+    "example_ru": "Наслаждайся поездкой."
+  },
+  {
+    "en": "hole",
+    "ru": "дыра",
+    "example": "Fix the hole.",
+    "example_ru": "Почини дыру."
+  },
+  {
+    "en": "poor",
+    "ru": "бедный",
+    "example": "He is poor.",
+    "example_ru": "Он беден."
+  },
+  {
+    "en": "let's",
+    "ru": "давайте",
+    "example": "Let's begin now.",
+    "example_ru": "Давайте начнём сейчас."
+  },
+  {
+    "en": "fight",
+    "ru": "драться",
+    "example": "Never fight again.",
+    "example_ru": "Больше не деритесь."
+  },
+  {
+    "en": "surprise",
+    "ru": "сюрприз",
+    "example": "What a surprise!",
+    "example_ru": "Какой сюрприз!"
+  },
+  {
+    "en": "French",
+    "ru": "французский",
+    "example": "Learn French words.",
+    "example_ru": "Выучи французские слова."
+  },
+  {
+    "en": "died",
+    "ru": "умер",
+    "example": "The hero died.",
+    "example_ru": "Герой умер."
+  },
+  {
+    "en": "beat",
+    "ru": "бить",
+    "example": "Drums beat loudly.",
+    "example_ru": "Барабаны громко бьют."
+  },
+  {
+    "en": "exactly",
+    "ru": "точно",
+    "example": "Exactly five left.",
+    "example_ru": "Осталось ровно пять."
+  },
+  {
+    "en": "remain",
+    "ru": "оставаться",
+    "example": "Remain calm please.",
+    "example_ru": "Оставайся спокойным, пожалуйста."
+  },
+  {
+    "en": "dress",
+    "ru": "платье",
+    "example": "Nice blue dress.",
+    "example_ru": "Красивое синее платье."
+  },
+  {
+    "en": "iron",
+    "ru": "железо",
+    "example": "Iron is heavy.",
+    "example_ru": "Железо тяжёлое."
+  },
+  {
+    "en": "couldn't",
+    "ru": "не мог",
+    "example": "I couldn't answer.",
+    "example_ru": "Я не смог ответить."
+  },
+  {
+    "en": "fingers",
+    "ru": "пальцы",
+    "example": "Wiggle your fingers.",
+    "example_ru": "Пошевели пальцами."
+  },
+  {
+    "en": "row",
+    "ru": "ряд",
+    "example": "Stand in row.",
+    "example_ru": "Встань в ряд."
+  },
+  {
+    "en": "least",
+    "ru": "наименьший",
+    "example": "Choose least risk.",
+    "example_ru": "Выбери наименьший риск."
+  },
+  {
+    "en": "catch",
+    "ru": "ловить",
+    "example": "Catch the ball.",
+    "example_ru": "Поймай мяч."
+  },
+  {
+    "en": "climbed",
+    "ru": "взобрался",
+    "example": "She climbed up.",
+    "example_ru": "Она поднялась."
+  },
+  {
+    "en": "wrote",
+    "ru": "написал",
+    "example": "He wrote note.",
+    "example_ru": "Он написал записку."
+  },
+  {
+    "en": "shouted",
+    "ru": "кричал",
+    "example": "They shouted loudly.",
+    "example_ru": "Они громко кричали."
+  },
+  {
+    "en": "continued",
+    "ru": "продолжил",
+    "example": "She continued reading.",
+    "example_ru": "Она продолжила чтение."
+  },
+  {
+    "en": "itself",
+    "ru": "само",
+    "example": "Door closed itself.",
+    "example_ru": "Дверь закрылась сама."
+  },
+  {
+    "en": "else",
+    "ru": "ещё",
+    "example": "Anything else?",
+    "example_ru": "Что‑нибудь ещё?"
+  },
+  {
+    "en": "gas",
+    "ru": "газ",
+    "example": "Gas leaked out.",
+    "example_ru": "Газ утёк."
+  },
+  {
+    "en": "England",
+    "ru": "Англия",
+    "example": "England is rainy.",
+    "example_ru": "В Англии дождливо."
+  },
+  {
+    "en": "burning",
+    "ru": "горящий",
+    "example": "Burning wood crackles.",
+    "example_ru": "Горящие дрова трещат."
+  },
+  {
+    "en": "design",
+    "ru": "дизайн",
+    "example": "The design changed.",
+    "example_ru": "Дизайн изменился."
+  },
+  {
+    "en": "joined",
+    "ru": "присоединился",
+    "example": "She joined team.",
+    "example_ru": "Она присоединилась к команде."
+  },
+  {
+    "en": "foot",
+    "ru": "ступня",
+    "example": "Hurt my foot.",
+    "example_ru": "Я повредил ступню."
+  },
+  {
+    "en": "law",
+    "ru": "закон",
+    "example": "Respect the law.",
+    "example_ru": "Соблюдай закон."
+  },
+  {
+    "en": "ears",
+    "ru": "уши",
+    "example": "Cover your ears.",
+    "example_ru": "Закрой уши."
+  },
+  {
+    "en": "grass",
+    "ru": "трава",
+    "example": "Cut the grass.",
+    "example_ru": "Покоси траву."
+  },
+  {
+    "en": "you're",
+    "ru": "ты есть",
+    "example": "You're right.",
+    "example_ru": "Ты прав."
+  },
+  {
+    "en": "grew",
+    "ru": "вырос",
+    "example": "Plant grew fast.",
+    "example_ru": "Растение быстро выросло."
+  },
+  {
+    "en": "skin",
+    "ru": "кожа",
+    "example": "Skin feels dry.",
+    "example_ru": "Кожа сухая."
+  },
+  {
+    "en": "valley",
+    "ru": "долина",
+    "example": "Fog filled valley.",
+    "example_ru": "Туман наполнил долину."
+  },
+  {
+    "en": "cents",
+    "ru": "центы",
+    "example": "It costs fifty cents.",
+    "example_ru": "Это стоит пятьдесят центов."
+  },
+  {
+    "en": "key",
+    "ru": "ключ",
+    "example": "Take the key.",
+    "example_ru": "Возьми ключ."
+  },
+  {
+    "en": "president",
+    "ru": "президент",
+    "example": "The president spoke.",
+    "example_ru": "Президент выступил."
+  },
+  {
+    "en": "brown",
+    "ru": "коричневый",
+    "example": "Brown shoes shine.",
+    "example_ru": "Коричневые туфли блестят."
+  },
+  {
+    "en": "trouble",
+    "ru": "беда",
+    "example": "I'm in trouble.",
+    "example_ru": "Я в беде."
+  },
+  {
+    "en": "cool",
+    "ru": "прохладный",
+    "example": "It feels cool.",
+    "example_ru": "Здесь прохладно."
+  },
+  {
+    "en": "cloud",
+    "ru": "облако",
+    "example": "Dark cloud formed.",
+    "example_ru": "Образовалось тёмное облако."
+  },
+  {
+    "en": "lost",
+    "ru": "потерянный",
+    "example": "Wallet lost again.",
+    "example_ru": "Кошелёк снова потерян."
+  },
+  {
+    "en": "sent",
+    "ru": "отправил",
+    "example": "She sent message.",
+    "example_ru": "Она отправила сообщение."
+  },
+  {
+    "en": "symbols",
+    "ru": "символы",
+    "example": "Learn math symbols.",
+    "example_ru": "Учите математические символы."
+  },
+  {
+    "en": "wear",
+    "ru": "носить",
+    "example": "Wear warm clothes.",
+    "example_ru": "Носи тёплую одежду."
+  },
+  {
+    "en": "bad",
+    "ru": "плохой",
+    "example": "Bad news came.",
+    "example_ru": "Плохие новости пришли."
+  },
+  {
+    "en": "save",
+    "ru": "сохранять",
+    "example": "Save your work.",
+    "example_ru": "Сохрани свою работу."
+  },
+  {
+    "en": "experiment",
+    "ru": "эксперимент",
+    "example": "Start the experiment.",
+    "example_ru": "Начни эксперимент."
+  },
+  {
+    "en": "engine",
+    "ru": "двигатель",
+    "example": "Engine stopped suddenly.",
+    "example_ru": "Двигатель внезапно остановился."
+  },
+  {
+    "en": "alone",
+    "ru": "один",
+    "example": "He sits alone.",
+    "example_ru": "Он сидит один."
+  },
+  {
+    "en": "drawing",
+    "ru": "рисунок",
+    "example": "Show your drawing.",
+    "example_ru": "Покажи свой рисунок."
+  },
+  {
+    "en": "east",
+    "ru": "восток",
+    "example": "Birds fly east.",
+    "example_ru": "Птицы летят на восток."
+  },
+  {
+    "en": "pay",
+    "ru": "платить",
+    "example": "Pay the bill.",
+    "example_ru": "Оплати счёт."
+  },
+  {
+    "en": "single",
+    "ru": "одинокий",
+    "example": "A single rose.",
+    "example_ru": "Одна роза."
+  },
+  {
+    "en": "touch",
+    "ru": "трогать",
+    "example": "Don't touch it.",
+    "example_ru": "Не трогай это."
+  },
+  {
+    "en": "information",
+    "ru": "информация",
+    "example": "Share the information.",
+    "example_ru": "Поделись информацией."
+  },
+  {
+    "en": "express",
+    "ru": "выражать",
+    "example": "Express your idea.",
+    "example_ru": "Вырази свою мысль."
+  }
+]
